@@ -8,10 +8,10 @@ order: 5
 
 | Event | Date |
 |---|:---:|
-| Full Paper Deadline: | June 30th, 2020; 11:59 PM PST **!!! Extended: July 6, 2020, 11:59 PM PST !!!**|
-| Notification of Acceptance: | August 10th, 2020; 11:59 PM PST |
-| MICCAI early bird registration: | August 17th, 2020 |
-| Camera-ready version due: | August 21st, 2020; 11:59 PST |
-| Pre-recorded talks and summary slide due: | September 20th, 2020 |
-| Pre-recorded talks released online: | September 27th, 2020 |
-| ShapeMI workshop date: | October 4th, 2020  |
+| Full Paper Deadline: | June TBD, 2023; 11:59 PM PST |
+| Notification of Acceptance: | August TBD, 2023; 11:59 PM PST |
+| MICCAI early bird registration: | August 2023 |
+| Camera-ready version due: | August 2023; 11:59 PST |
+| Pre-recorded talks and summary slide due: | September 2023 |
+| Pre-recorded talks released online: | September 2023 |
+| ShapeMI workshop date: | October 2023  |
