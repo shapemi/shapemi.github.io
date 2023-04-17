@@ -8,7 +8,8 @@ Today’s image data usually represents 3D geometric structures, often describin
  </p>
 
 # Topics
-<p align="justify"> This workshop targets theoretical contributions as well as exciting applications in medical imaging, including (but not limited to): </p>
+This workshop targets theoretical contributions as well as exciting applications in medical imaging, including (but not limited to):
+
 - Shape Processing and Analysis
 - Shape Learning and Classification
 - Geometric Learning and Manifold-based Methods
