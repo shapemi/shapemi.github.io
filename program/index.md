@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 order: 2
 ---
-
+/*:
 # Program of live workshop Oct. 4th
 
 
@@ -239,3 +239,4 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </table>
 
 <h2>End 16:30 UTC</h2>
+*/
