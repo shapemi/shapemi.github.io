@@ -6,7 +6,7 @@ order: 4
 ---
 # Paper and Demo Submission
 
-* **Papers**: We accept full (12-15 pages) and short (6-11 pages) papers, formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs) (Template:    [Overleaf]([ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1)).
+* **Papers**: We accept full (12-15 pages) and short (6-11 pages) papers, formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (Template:    [Overleaf]([ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1)). Refer to [Instructions for Authors](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v11).
 * **Software Demos**: During paper submissions, we have the option to apply for presenting an on-site software demo.
 * **Submission Website**: [https://cmt3.research.microsoft.com/SHAPEMI2023](https://cmt3.research.microsoft.com/SHAPEMI2023)
 * **Review**: The review is single-blind (submissions should include authors and affiliations). Reviewers will be chosen among experts in the medical image computing community.
