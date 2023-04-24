@@ -17,3 +17,5 @@ This year the conference will be held virtually, in a combination of pre-recorde
 * **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS). We may not be able to include abstracts in the proceedings.
 
 Please note that at least one co-author **must register** to the workshop by the early bird registration deadline **August TBD 2023**.
+
+![MICCAI 2023](images/springer.png "26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023")
