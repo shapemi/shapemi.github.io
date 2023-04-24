@@ -6,7 +6,7 @@ order: 4
 ---
 # Paper and Demo Submission
 
-* **Papers**: We accept full (12-15 pages) and short (6-11 pages) papers, formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs). Template,    [Overleaf]([ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1).
+* **Papers**: We accept full (12-15 pages) and short (6-11 pages) papers, formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs) (Template:    [Overleaf]([ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1)).
 * **Software Demos**: During paper submissions, we have the option to apply for presenting an on-site software demo.
 * **Submission Website**: [https://cmt3.research.microsoft.com/SHAPEMI2023](https://cmt3.research.microsoft.com/SHAPEMI2023)
 * **Review**: The review is single-blind, submissions should include authors and affiliations. Reviewers will be chosen among experts in the medical image computing community.
@@ -18,4 +18,4 @@ This year the conference will be held virtually, in a combination of pre-recorde
 
 Please note that at least one co-author **must register** to the workshop by the early bird registration deadline **August TBD 2023**.
 
-![MICCAI 2023](images/springer.png "26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023")
+![Springer](images/springer.png "Springer")
