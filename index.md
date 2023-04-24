@@ -37,36 +37,25 @@ This workshop targets theoretical contributions as well as exciting applications
 - [Jianning Li](http://jianningli.me/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 
 # Advisory Board / Program Committee
-- Aasa	Feragen, DIKU
-- Claudia	Lindner, U Manchester
-- Diana	Mateus, EC Nantes
-- Ellen	Gasparovic, Union College NY
-- Ender	Konukoglu, ETH Zurich
-- Guido	Gerig, NYU
-- Ipek	Oguz, Vanderbilt
-- James	Fishbaugh, New York University
-- Julia	Schnabel, King's College London
-- Kathryn	Leonard, OXI
-- Kilian	Pohl, SRI International
-- Marc	Niethammer, UNC
-- Marius	Linguraru, Sheikh Zayed Institute
-- Martin	Styner, UNC
-- Miaomiao	Zhang, Lehigh University
-- Philippe	Buechler, University of Bern
-- Ross	Whitaker, University of Utah
-- Shireen	Elhabian, SCI Utah
-- Stanley	Durrleman, Inria & ICM
-- Stefan	Sommer, University of Copenhagen
-- Steve	Pizer, UNC
-- Sungmin Hong (MGH/HMS)
-- Thomas	Vetter, University of Basel
-- Tim	Cootes, Manchester University
-- Tinashe	Mutsvangwa, University of Cape Town
-- Umberto	Castellani, University of Verona
-- Xavier	Pennec, INRIA Sophia Antipolis
-- Yonggang	Shi, University of Southern California
-- Yoshinobu	Sato, NAIST
-- Washington	Mio, Florida State University
+
+- Ellen Gasparovic, Union College NY
+- Guido Gerig, NYU 3 papers
+- James Fishbaugh, Kitware
+- Jens Kleesiek, UKE Essen - confirmed
+- Kathryn Leonard, OXI - confirmed
+- Miaomiao Zhang, Lehigh University
+- Stefan Sommer, University of Copenhagen
+- Steve Pizer, UNC - confirmed
+- Tim Cootes, Manchester University
+- Umberto Castellani, University of Verona - confirmed
+- Yonggang Shi, University of Southern California
+- Veronika Zimmer
+- Ilwoo Lyu
+- Suyash Awate
+- Sungmin Hong - AWS
+- Ilkay Oksuz,
+
+
 
 # Best Paper Award
 
