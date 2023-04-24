@@ -47,7 +47,7 @@ This workshop targets theoretical contributions as well as exciting applications
 - Stefan Sommer, University of Copenhagen
 - Steve Pizer, UNC - confirmed
 - Tim Cootes, Manchester University
-- Umberto Castellani, University of Verona - confirmed
+- Umberto Castellani, University of Verona
 - Yonggang Shi, University of Southern California
 - Veronika Zimmer
 - Ilwoo Lyu
