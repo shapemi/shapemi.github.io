@@ -6,4 +6,4 @@ order: 3
 ---
 # Location
 
-To be announced!
+Vancouver, Canada
