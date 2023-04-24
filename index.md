@@ -14,6 +14,9 @@ This workshop targets theoretical contributions as well as exciting applications
 - Shape Learning and Classification
 - Geometric Learning and Manifold-based Methods
 - Statistics of Shapes and Deformations
+- Geometry-constrained Deep Learning and Optimization
+- Synthetic Anatomical Shape Generation
+- Generative Shape Models
 - Spectral Shape Analysis
 - Spectral Clustering and Dimensionality Reduction
 - Shape Modeling and Representation
