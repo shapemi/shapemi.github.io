@@ -53,7 +53,7 @@ This workshop targets theoretical contributions as well as exciting applications
 - Ilwoo Lyu
 - Suyash Awate
 - Sungmin Hong - AWS
-- Ilkay Oksuz,
+- Ilkay Oksuz
 
 
 
