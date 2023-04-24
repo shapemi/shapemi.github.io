@@ -31,7 +31,7 @@ This workshop targets theoretical contributions as well as exciting applications
 - [Beatriz Paniagua](https://www.kitware.com/beatriz-paniagua/), Kitware Inc. and University of North Carolina at Chapel Hill, USA
 - [Shireen Elhabian](http://www.sci.utah.edu/~shireen/), School of Computing, Scientific Computing and Imaging Institute, University of Utah, USA
 - [Jan Egger](http://www.janegger.de/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
-- [Jianning Li](http://jianningli.me/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany and  Institute of Computer Graphics and Vision, Graz University of Technology, Graz, Austria
+- [Jianning Li](http://jianningli.me/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 
 
 # Advisory Board / Program Committee
