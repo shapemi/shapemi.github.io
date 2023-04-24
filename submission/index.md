@@ -18,4 +18,4 @@ This year the conference will be held virtually, in a combination of pre-recorde
 
 Please note that at least one co-author **must register** to the workshop by the early bird registration deadline **August TBD 2023**.
 
-![Springer](images/springer.png "Springer")
+![Springer](https://github.com/shapemi/shapemi.github.io/blob/main/images/springer.png "Springer")
