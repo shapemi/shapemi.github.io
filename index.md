@@ -69,7 +69,7 @@ This workshop targets theoretical contributions as well as exciting applications
 
 TBD
 
-<p align="center">
-[<img src="[http://www.google.com.au/images/nav_logo7.png](https://github.com/shapemi/shapemi.github.io/blob/main/images/miccai2023-logo.png)">](https://conferences.miccai.org/2023/en/)
-</p>
+
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://github.com/shapemi/shapemi.github.io/blob/main/images/miccai2023-logo.png)">(https://conferences.miccai.org/2023/en/)
+
 
