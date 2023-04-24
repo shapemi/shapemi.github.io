@@ -39,13 +39,13 @@ This workshop targets theoretical contributions as well as exciting applications
 # Advisory Board / Program Committee
 
 - Ellen Gasparovic, Union College NY
-- Guido Gerig, NYU 3 papers
+- Guido Gerig, NYU 
 - James Fishbaugh, Kitware
-- Jens Kleesiek, UKE Essen - confirmed
-- Kathryn Leonard, OXI - confirmed
+- Jens Kleesiek, UKE Essen
+- Kathryn Leonard, OXI 
 - Miaomiao Zhang, Lehigh University
 - Stefan Sommer, University of Copenhagen
-- Steve Pizer, UNC - confirmed
+- Steve Pizer, UNC
 - Tim Cootes, Manchester University
 - Umberto Castellani, University of Verona
 - Yonggang Shi, University of Southern California
