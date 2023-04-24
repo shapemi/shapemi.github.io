@@ -70,6 +70,6 @@ This workshop targets theoretical contributions as well as exciting applications
 TBD
 
 <p align="center">
-<a href="https://conferences.miccai.org/2023/en/" target="_blank"><img src="images/miccai-2023-logo.png"
+<a href="https://conferences.miccai.org/2023/en/" target="_blank"><img src="https://github.com/shapemi/shapemi.github.io/blob/main/images/miccai2023-logo.png"
 alt="26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023" /></a>
 </p>
