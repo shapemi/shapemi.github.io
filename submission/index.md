@@ -18,4 +18,4 @@ This year the conference will be hybrid, featuring on-site and virtual keynotes,
 
 Please note that at least one co-author **must register** to the workshop by the early bird registration deadline **August TBD 2023**.
 
-![Springer](images/springer.png "Springer")
+![Springer](../images/springer.png "Springer")
