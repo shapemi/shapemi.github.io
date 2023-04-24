@@ -33,7 +33,6 @@ This workshop targets theoretical contributions as well as exciting applications
 - [Jan Egger](http://www.janegger.de/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 - [Jianning Li](http://jianningli.me/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 
-
 # Advisory Board / Program Committee
 - Aasa	Feragen, DIKU
 - Claudia	Lindner, U Manchester
