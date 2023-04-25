@@ -14,7 +14,7 @@ order: 1
 
 ## Steve Pizer
 
-<p align="justify">Steve Pizer ...<br><br>
-
-<b>Title:</b> <i>TBD</i><br>
-<b>Abstract:</b> TBD<br></p>
+<img style="float: left; margin: 0 20px 20px 0;" src="../images/steve_pizer.jpg" alt="Steve Pizer">
+<p align="justify">Dr. Steve pizer was the author of the first PhD dissertation in medical image computing, at Harvard and Mass. General Hospital in 1967. He has been teaching, research advising, writing, and doing research in that area continuously since then. In past years his research focused on image quality restoration, 2D and 3D display, and models of human vision. For the last decade he led research on computer vision methods using deep learning to reconstruct surfaces viewed by endoscopic video, most recently in colonoscopy. For the last 4 decades his focus has been on geometric models of anatomic objects, statistical analyses of these, and the applications of that in object segmentation, registration, and diagnosis. My medical target problems have come from radiation oncology, neuroscience, GI medicine, radiology, neurosurgery, and dentistry. The form of model he has developed is skeletal, and in particular what we call the s-rep, with its advantages over object boundary based models of also locally capturing curvature of the object interior and cross-object width. There have been successes of a variety of types for statistics on s-reps. These include the Slicer/SALT toolkit, operating as investigator, and the commercial success of the company, Morphormics, now part of Accuray, that Dr. Pizer and his team spun off and whose main product, doing segmentation originally built upon statistics of skeletal models and of the object-relative intensity patterns they allow, has measured success and is available in many hospitals.<br><br>
+<b>Title:</b> Object Correspondence for Statistics via Skeletal Geometry<br>
+<b>Abstract:</b> TBD. <br></p>
