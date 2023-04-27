@@ -14,4 +14,4 @@ order: 5
 | Camera-ready version due: | August 2023; 11:59 PST |
 | Pre-recorded talks and summary slide due: | September 2023 |
 | Pre-recorded talks released online: | September 2023 |
-| ShapeMI workshop date: | October 2023  |
+| ShapeMI workshop date: | October  8th 2023  |
