@@ -23,8 +23,8 @@ This workshop targets theoretical contributions as well as exciting applications
 - Shape Segmentation, Registration and Correspondence
 - Longitudinal Shape Analysis and Processing
 - Medical Applications focused on Shape Analysis
-- Evaluation / quality assessment of shape models
-- Relevant demos of freely available shape analysis software
+- Evaluation / quality assessment of Shape Models
+- Relevant demos of freely available Shape Analysis Software
 
 # Academic objectives
 <p align="justify"> This workshops aims at bringing together medical imaging scientists to discuss novel approaches and application in shape and geometry processing and their use in research and clinical studies and applications. Another aim is to explore novel, cutting-edge theoretical methods and their usefulness for medical applications, such as from the fields of geometric learning or spectral shape analysis. As a single-track workshop, ShapeMI will feature excellent <a href="https://shapemi.github.io/keynotes/">keynote speakers</a>, <a href="https://shapemi.github.io/submission/">technical paper presentations and demonstrations</a> of state-of-the-art software for shape processing in medical research. </p>
