@@ -41,7 +41,7 @@ This workshop targets theoretical contributions as well as exciting applications
 - Ellen Gasparovic, Union College NY
 - Guido Gerig, NYU 
 - James Fishbaugh, Kitware
-- Jens Kleesiek, UKE Essen
+- Jens Kleesiek, UK Essen
 - Kathryn Leonard, OXI 
 - Miaomiao Zhang, Lehigh University
 - Stefan Sommer, University of Copenhagen
