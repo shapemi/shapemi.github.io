@@ -43,7 +43,7 @@ This workshop targets theoretical contributions as well as exciting applications
 - James Fishbaugh, Kitware
 - Jens Kleesiek, UK Essen
 - Kathryn Leonard, OXI 
-- Miaomiao Zhang, Lehigh University
+- Miaomiao Zhang, University of Virginia 
 - Stefan Sommer, University of Copenhagen
 - Steve Pizer, UNC
 - Tim Cootes, Manchester University
