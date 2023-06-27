@@ -8,7 +8,7 @@ order: 5
 
 | Event | Date |
 |---|:---:|
-| Full Paper Deadline: | June 30, 2023; 11:59 PM PST |
+| Full Paper Deadline: | ~~June 30,~~ July 06, 2023; 11:59 PM PST |
 | Notification of Acceptance: | August 18, 2023; 11:59 PM PST |
 | MICCAI early bird registration: | August 2023 |
 | Camera-ready version due: | August 2023; 11:59 PST |
