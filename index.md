@@ -41,12 +41,12 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 
 # Advisory Board / Program Committee
 
-- Ellen Gasparovic, Union College NY
-- Guido Gerig, NYU 
-- James Fishbaugh, Kitware
-- Jens Kleesiek, UK Essen
-- Kathryn Leonard, OXI 
-- Miaomiao Zhang, University of Virginia 
+- Ellen Gasparovic, Union College, New York, United States
+- Guido Gerig, New York University, New York, United States 
+- James Fishbaugh, Kitware, New York, United States
+- Jens Kleesiek, UK Essen, Essen, Germany
+- Kathryn Leonard, Occidental College, Los Angeles, United States
+- Miaomiao Zhang, University of Virginia, Virginia, United States 
 - Stefan Sommer, University of Copenhagen
 - Steve Pizer, UNC
 - Tim Cootes, Manchester University
