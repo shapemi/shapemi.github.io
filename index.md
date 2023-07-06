@@ -47,16 +47,16 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Jens Kleesiek, UK Essen, Essen, Germany
 - Kathryn Leonard, Occidental College, Los Angeles, United States
 - Miaomiao Zhang, University of Virginia, Virginia, United States 
-- Stefan Sommer, University of Copenhagen
-- Steve Pizer, UNC
-- Tim Cootes, Manchester University
-- Umberto Castellani, University of Verona
-- Yonggang Shi, University of Southern California
-- Veronika Zimmer
-- Ilwoo Lyu
-- Suyash Awate
-- Sungmin Hong - AWS
-- Ilkay Oksuz
+- Stefan Sommer, University of Copenhagen, Copenhagen, Denmark
+- Steve Pizer, University of North Carolina at Chapel Hill, North Carolina, United States
+- Tim Cootes, Manchester University, Manchester, England
+- Umberto Castellani, University of Verona, Verona, Italy
+- Yonggang Shi, University of Southern California, California, United States
+- Veronika Zimmer, Technical University Munich, Munich, Germany
+- Ilwoo Lyu, Ulsan National Institute of Science and Technology, Ulsan, South Korea
+- Suyash Awate, Indian Institute of Technology, Bombay, India
+- Sungmin Hong, AWS
+- Ilkay Oksuz, Istanbul Technical University, Istanbul, Turkey
 
 
 
