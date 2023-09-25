@@ -33,7 +33,7 @@ This workshop targets theoretical contributions as well as exciting applications
 If you are looking for medical shapes for your work, take a look at <a href="https://medshapenet.ikim.nrw/">MedShapeNet</a>, which is a large-scale dataset of 3D medical shapes.
 
 # Organizers
-- [Christian Wachinger](http://wachinger.devweb.mwn.de/people/), Ludwig-Maximilian-University, Munich, Germany
+- [Christian Wachinger](http://wachinger.devweb.mwn.de/people/), Technical University of Munich, Munich, Germany
 - [Beatriz Paniagua](https://www.kitware.com/beatriz-paniagua/), Kitware Inc. and University of North Carolina at Chapel Hill, USA
 - [Shireen Elhabian](http://www.sci.utah.edu/~shireen/), School of Computing, Scientific Computing and Imaging Institute, University of Utah, USA
 - [Jianning Li](https://scholar.google.com/citations?user=qPPTM_AAAAAJ&hl=en&authuser=2), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
