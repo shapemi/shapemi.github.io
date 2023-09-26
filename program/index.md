@@ -2,6 +2,7 @@
  ```8:00 - 9:00 Registration```
 
 # <span style="color:blue">In-person session (Oral Presentation) </span> <br>
+(live presentations at a conference room with live streaming)
 
 ```
 9:00 - 9:10 Opening (10 min) 
@@ -42,7 +43,7 @@
 ```
 
 # <span style="color:blue">Virtual session (Poster Pitch) </span> <br>
-
+(virtual presentations via ZOOM)
 
 
 | Time   |      Tile      |  Speaker |
