@@ -1,12 +1,13 @@
 
 8:00 - 9:00 Registration
 
-# <span style="color:blue">In person session text</span> <br>
+# <span style="color:blue">In person session</span> <br>
 
 ## 9:00 - 9:10 Opening (10 min) <br>
 
+```
 ## 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis <br>
-
+```
 | Time   |      Tile      |  Speaker |
 |:--------------|:-------------------------|:---------:|
 | 9:10 - 9:40  | **Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)**             | Miaomiao Zhang |
@@ -18,8 +19,9 @@
 
 ## 10:30 - 10:45 Coffee break <br>
 
+```
 ## 10:45 - 12:00 Block 2 - Shape Methods  <br>
-
+```
 
 | Time   |      Tile      |  Speaker |
 |:--------------|:-------------------------|:---------:|
