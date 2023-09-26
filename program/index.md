@@ -7,19 +7,13 @@
 
 ## 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis <br>
 
-| Tables   |      Are      |  Cool |
+| Time   |      Tile      |  Authors |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| 9:10 - 9:40 |  Keynote | -|
+| 9:40 - 9:55 |  SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction   |   - |
+| 9:55 - 10:10 | Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstructiond |    -|
+| 10:10 - 10:25 | Anatomy-Aware Masking for Inpainting in Medical Imaging |    - | <br>
 
-
-| Time    | Tile |
-|  -------- | -------  |
-| 9:10 - 9:40  | Keynote    |
-| 9:40 - 9:55 | SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction    |
-| 9:55 - 10:10    | Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstruction    |
-| 10:10 - 10:25    | Anatomy-Aware Masking for Inpainting in Medical Imaging    | <br>
 
 ## 10:30 - 10:45 Coffee break <br>
 
