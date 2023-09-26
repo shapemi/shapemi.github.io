@@ -6,8 +6,9 @@
 ## 9:00 - 9:10 Opening (10 min) <br>
 
 ```
-## 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis <br>
+9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis
 ```
+
 | Time   |      Tile      |  Speaker |
 |:--------------|:-------------------------|:---------:|
 | 9:10 - 9:40  | **Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)**             | Miaomiao Zhang |
@@ -20,7 +21,7 @@
 ## 10:30 - 10:45 Coffee break <br>
 
 ```
-## 10:45 - 12:00 Block 2 - Shape Methods  <br>
+10:45 - 12:00 Block 2 - Shape Methods  
 ```
 
 | Time   |      Tile      |  Speaker |
