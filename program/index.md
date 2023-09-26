@@ -19,9 +19,12 @@ In person session
 
 10:45 - 12:00 Block 2 - Shape Methods 
 
-	Keynote (30 min)
-    
-	Three accepted talks (15 min each)
+| Time    | Tile |
+|  -------- | -------  |
+| 10:45 - 11:15  | Keynote    |
+| 11:15 - 11:30 | Particle-Based Shape Modeling for Arbitrary Regions-of-Interest    |
+| 11:30 - 11:45    |Predicting Shape Development: A Riemannian Method   |
+| 11:45 - 12:00    | 3D Shape Analysis of Scoliosis   |
 
 12:00 - 13:00 Adjourn / Lunch
 
