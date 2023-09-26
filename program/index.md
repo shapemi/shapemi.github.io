@@ -13,7 +13,7 @@ In person session
 	Three accepted paper talks (15 min each)
 
 	SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction
-Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstruction
+        Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstruction
 	Anatomy-Aware Masking for Inpainting in Medical Imaging
  
 
