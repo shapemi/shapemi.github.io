@@ -1,9 +1,11 @@
 
 8:00 - 9:00 Registration
 
-# <span style="color:blue">In person session</span> <br>
+# <span style="color:blue">In person session (Oral Presentation) </span> <br>
 
-## 9:00 - 9:10 Opening (10 min) <br>
+```
+9:00 - 9:10 Opening (10 min) 
+```
 
 ```
 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis
@@ -18,7 +20,9 @@
 
 <br>
 
-## 10:30 - 10:45 Coffee break <br>
+```
+10:30 - 10:45 Coffee break
+```
 
 ```
 10:45 - 12:00 Block 2 - Shape Methods  
@@ -36,10 +40,9 @@
 
 ## 12:00 - 13:00 Adjourn / Lunch <br>
 
-# <span style="color:blue">Virtual session </span> <br>
+# <span style="color:blue">Virtual session (Poster Pitch) </span> <br>
 
 
-## 13:00 - 15:00 (virtual) Poster and Software Demo Session
 
 | Time   |      Tile      |  Speaker |
 |:--------------|:-------------------------|:---------:|
