@@ -1,5 +1,5 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```8:00 - 9:00 Registration```
+ ```8:00 - 9:00 Registration```
 
 # <span style="color:blue">In-person session (Oral Presentation) </span> <br>
 
