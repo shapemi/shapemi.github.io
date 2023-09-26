@@ -26,6 +26,7 @@ In person session
 | 11:30 - 11:45    |Predicting Shape Development: A Riemannian Method   |
 | 11:45 - 12:00    | 3D Shape Analysis of Scoliosis   |
 
+
 12:00 - 13:00 Adjourn / Lunch
 
 Virtual session
