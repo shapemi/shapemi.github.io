@@ -62,5 +62,8 @@
 | 14:00 - 14:05 | **IcoConv : Explainable brain cortical surface analysis for ASD classification**     
 | 14:05 - 14:10 | **DeCA: A Dense Correspondence Analysis Toolkit for Shape Analysis**     
 
-## 15:30 - 16:00 (virtual) Best paper award presentation
+<br>
 
+ ```
+ Best paper award presentation
+```
