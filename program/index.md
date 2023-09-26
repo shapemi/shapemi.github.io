@@ -2,11 +2,11 @@ Preliminary Program
 
 8:00 - 9:00 Registration
 
-In person session
+## In person session
 
-9:00 - 9:10 Opening (10 min)
+### 9:00 - 9:10 Opening (10 min)
 
-9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis
+### 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis
 
 | Time    | Tile |
 |  -------- | -------  |
@@ -15,9 +15,9 @@ In person session
 | 9:55 - 10:10    | Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstruction    |
 | 10:10 - 10:25    | Anatomy-Aware Masking for Inpainting in Medical Imaging    |
 
-10:30 - 10:45 Coffee break
+### 10:30 - 10:45 Coffee break
 
-10:45 - 12:00 Block 2 - Shape Methods 
+### 10:45 - 12:00 Block 2 - Shape Methods 
 
 | Time    | Tile |
 |  -------- | -------  |
@@ -27,9 +27,9 @@ In person session
 | 11:45 - 12:00    | 3D Shape Analysis of Scoliosis   |
 
 
-12:00 - 13:00 Adjourn / Lunch
+### 12:00 - 13:00 Adjourn / Lunch
 
-Virtual session
+## Virtual session
 
 13:00 - 15:00 (virtual) Poster and Software Demo Session
 
