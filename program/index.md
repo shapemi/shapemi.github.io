@@ -1,5 +1,5 @@
 
-# 8:00 - 9:00 Registration
+8:00 - 9:00 Registration
 
 # In person session <br>
 
