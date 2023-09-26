@@ -7,6 +7,13 @@
 
 ## 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis <br>
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+
 | Time    | Tile |
 |  -------- | -------  |
 | 9:10 - 9:40  | Keynote    |
