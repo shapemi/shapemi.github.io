@@ -10,9 +10,9 @@
 | Time   |      Tile      |  Authors |
 |----------|:-------------:|------:|
 | 9:10 - 9:40 |  Keynote | -|
-| 9:40 - 9:55 |  SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction   |   - |
-| 9:55 - 10:10 | Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstructiond |    -|
-| 10:10 - 10:25 | Anatomy-Aware Masking for Inpainting in Medical Imaging |    - | <br>
+| 9:40 - 9:55 |  **SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction**   |   - |
+| 9:55 - 10:10 | **Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstructiond** |    -|
+| 10:10 - 10:25 | **Anatomy-Aware Masking for Inpainting in Medical Imaging** |    - | <br>
 
 
 ## 10:30 - 10:45 Coffee break <br>
