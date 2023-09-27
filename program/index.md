@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2023 Program [PDF](https://github.com/shapemi/shapemi.github.io/blob/main/program/program.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2023 Program ([PDF](https://github.com/shapemi/shapemi.github.io/blob/main/program/program.pdf))
 
 ---
 
@@ -12,8 +12,7 @@
 ```9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis```
 
 
-| Time   |      Tile  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  
-|:--------------|:---------------------------------------------------------------------|
+| Time   |    <div style="width:290px">Tile</div> |  
 | . | .................................................................................................................         |
 | ```9:10  - 9:40```  | **Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)**             |
 | ```9:40  - 9:55```  | **SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction**                     |   
