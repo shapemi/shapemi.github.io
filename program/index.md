@@ -12,7 +12,7 @@
 9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis
 ```
 
-| Time   |      Tile      |  Speaker |
+| Time   |      Tile  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  Speaker |
 |:--------------|:-----------------------------------|:---------:|
 | ```9:10  - 9:40```  | **Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)**             | Miaomiao Zhang |
 | ```9:40  - 9:55```  | **SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction**                     |      -         |
