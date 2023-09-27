@@ -10,7 +10,7 @@
 
 
 | Time   |      Tile  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  
-|:--------------|:-----------------------------------|
+|:--------------|:---------------------------------------------------------------------|
 | ```9:10  - 9:40```  | **Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)**             |
 | ```9:40  - 9:55```  | **SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction**                     |   
 | ```9:55  - 10:10``` | **Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstruction** |  
@@ -38,7 +38,7 @@
 
 
 | Time   |      Tile    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | 
-|:--------------|:-----------------------------------|
+|:--------------|:--------------------------------------------------------------------------|
 | ```13:00 - 13:05``` | **C3Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**              |
 | ```13:05 - 13:10``` | **Optimal coronary artery segmentation based on transfer learning and UNet architecture**   |  
 | ```13:10 - 13:15``` | **Unsupervised Learning of Cortical Surface Registration using Spherical Harmonics**                  |   
@@ -59,6 +59,4 @@
 
 <br>
 
- ```
- Best paper award presentation
-```
+ ```Best paper award presentation```
