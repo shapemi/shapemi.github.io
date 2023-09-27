@@ -29,7 +29,7 @@
 10:45 - 12:00 Block 2 - Shape Methods  
 ```
 
-| Time   |      Tile   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |  Speaker |
+| Time   |      Tile    |  Speaker |
 |:--------------|:-----------------------------------|:---------:|
 | ```10:45 - 11:15``` | **Shaping up: Introduction to Shape Analysis (Keynote)**              | Guido Gerig|
 | ```11:15 - 11:30``` | **Particle-Based Shape Modeling for Arbitrary Regions-of-Interest**   |   -        |
@@ -46,7 +46,7 @@
 (virtual presentations via ZOOM)
 
 
-| Time   |      Tile      |  Speaker |
+| Time   |      Tile    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  Speaker |
 |:--------------|:-----------------------------------|:---------:|
 | ```13:00 - 13:05``` | **C3Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**              | -|
 | ```13:05 - 13:10``` | **Optimal coronary artery segmentation based on transfer learning and UNet architecture**   |   -        |
