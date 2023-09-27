@@ -4,13 +4,10 @@
 # <span style="color:blue">In-person session (Oral Presentation) </span> <br>
 (live presentations at a conference room with live streaming)
 
-```
-9:00 - 9:10 Opening (10 min) 
-```
+```9:00 - 9:10 Opening (10 min) ```
 
-```
-9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis
-```
+```9:10 - 10:30 Block 1 - Deep Learning in Medical Shape Analysis```
+
 
 | Time   |      Tile  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  
 |:--------------|:-----------------------------------|
@@ -21,13 +18,9 @@
 
 <br>
 
-```
-10:30 - 10:45 Coffee break
-```
+```10:30 - 10:45 Coffee break```
 
-```
-10:45 - 12:00 Block 2 - Shape Methods  
-```
+```10:45 - 12:00 Block 2 - Shape Methods```
 
 | Time   |      Tile    |
 |:--------------|:-----------------------------------|
@@ -38,9 +31,7 @@
 
 <br>
 
-```
-12:00 - 13:00 Adjourn / Lunch
-```
+```12:00 - 13:00 Adjourn / Lunch```
 
 # <span style="color:blue">Virtual session (Poster Pitch) </span> <br>
 (virtual presentations via ZOOM)
