@@ -29,7 +29,7 @@
 10:45 - 12:00 Block 2 - Shape Methods  
 ```
 
-| Time   |      Tile      |  Speaker |
+| Time   |      Tile   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |  Speaker |
 |:--------------|:-----------------------------------|:---------:|
 | ```10:45 - 11:15``` | **Shaping up: Introduction to Shape Analysis (Keynote)**              | Guido Gerig|
 | ```11:15 - 11:30``` | **Particle-Based Shape Modeling for Arbitrary Regions-of-Interest**   |   -        |
