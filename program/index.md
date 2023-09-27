@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the Program [here](https://github.com/shapemi/shapemi.github.io/blob/main/program/program.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # ShapeMI 2023 Program [PDF](https://github.com/shapemi/shapemi.github.io/blob/main/program/program.pdf)
 
 ---
 
@@ -22,6 +22,7 @@
 <br>
 
 ```10:30 - 10:45 Coffee break```
+<br>
 
 ```10:45 - 12:00 Block 2 - Shape Methods```
 
@@ -38,7 +39,6 @@
 
 # <span style="color:blue">Virtual session (Poster Pitch) </span> <br>
 (virtual presentations via ZOOM)
-
 
 | Time   |      Tile    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | 
 |:--------------|:--------------------------------------------------------------------------|
