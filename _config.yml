@@ -8,4 +8,4 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 #github_username:shapemi
 
 # Build settings
-markdown: kramdown
+markdown: GFM
