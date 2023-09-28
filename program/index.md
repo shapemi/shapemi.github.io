@@ -5,7 +5,7 @@
  ```8:00 - 9:00 Registration```
 
 # <span style="color:blue">In-person session (Oral Presentation) </span> <br>
-(live presentations in a conference room with live streaming)
+(live presentations in a conference room with ZOOM streaming)
 
 ```9:00 - 9:10 Opening (10 min) ```
 
