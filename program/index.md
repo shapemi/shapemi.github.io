@@ -42,7 +42,7 @@
 
 | Time   |      Tile    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | 
 |:--------------|:--------------------------------------------------------------------------|
-| ```13:00 - 13:05``` | **<h6>C3Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy</h6>**              |
+| ```13:00 - 13:05``` | **<h6><a href="https://drive.google.com/file/d/1u1xq56vIrsvp87cK6eJxmrJ02R5_--GE/view?usp=drive_link">C3Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy</a></h6>**              |
 | ```13:05 - 13:10``` | **<h6>Optimal coronary artery segmentation based on transfer learning and UNet architecture</h6>**   |  
 | ```13:10 - 13:15``` | **<h6>Unsupervised Learning of Cortical Surface Registration using Spherical Harmonics</h6>**                  |   
 | ```13:15 - 13:20``` | **<h6>Unsupervised correspondence with combined geometric learning and imaging for radiotherapy applications</h6>**   |    
