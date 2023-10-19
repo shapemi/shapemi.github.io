@@ -14,7 +14,7 @@
 
 | Time   |     Tile    |
 |:--------------|:-----------------------------------|
-| ```9:10  - 9:40```  | <span style="color:green">**Shaping up: Introduction to Shape Analysis (Keynote)** </span>     |
+| ```9:10  - 9:40```  | <span style="color:green">**Shaping up: Introduction to Shape Analysis (Keynote)** </span> <a href="https://drive.google.com/file/d/1Fhbo_9FSumNKkH2H-ZU7p0J8M3MskngL/view?usp=share_link">Slides</a>     |
 | ```9:40  - 9:55```  | **<h5><a href="https://drive.google.com/file/d/1zFhKVOUvMeO-l3vJFENyrOoJjmNW_GjH/view?usp=drive_link">SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction</a></h5>**                     |   
 | ```9:55  - 10:10``` | **<h5><a href="https://drive.google.com/file/d/1S8Ihl5T27VaAmKEUEOoyw-nhrMsb7SZg/view?usp=drive_link">Anatomy Completor: A Multi-class Completion Framework for 3D Anatomy Reconstruction</a></h5>** |  
 | ```10:10 - 10:25``` | **<h5><a href="https://drive.google.com/file/d/15RxBaPgVpAC4rBr5jT-aIvNkpMJ_3VWI/view?usp=drive_link">Anatomy-Aware Masking for Inpainting in Medical Imaging</a></h5>**                             |   
@@ -28,7 +28,7 @@
 
 | Time   |      Tile    |
 |:--------------|:-----------------------------------|
-| ```10:45 - 11:15``` | <span style="color:green">**Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)</span>**             | 
+| ```10:45 - 11:15``` | <span style="color:green">**Deep Neural Networks To Analyze Deformable Shapes From Images (Keynote)**</span> <a href="https://drive.google.com/file/d/1-Vg6PHbE4C-BhH03egWd6SBTfNi3SoUF/view?usp=share_link">Slides</a>            | 
 | ```11:15 - 11:30``` | **<h5><a href="https://drive.google.com/file/d/1mt7QQL8Ws0dZeVfI4ptI3YoNpv1fy6a4/view?usp=drive_link">Particle-Based Shape Modeling for Arbitrary Regions-of-Interest</a></h5>**   |
 | ```11:30 - 11:45``` | **<h5><a href="https://drive.google.com/file/d/1VprXQ0IH-vMzJdpygpIDNnDOw38i2PCh/view?usp=drive_link">Predicting Shape Development: A Riemannian Method</a></h5>**                 | 
 | ```11:45 - 12:00``` | **<h5><a href="https://drive.google.com/file/d/1AtOqZDhdaMM1ZEe146HEXVR1AMv93I6W/view?usp=drive_link">3D Shape Analysis of Scoliosis</a></h5>**                                    | 
@@ -62,4 +62,3 @@
 
 <br>
 
- ```Best paper award presentation```
