@@ -8,8 +8,8 @@ order: 5
 
 | Event | Date |
 |---|:---:|
-| Full Paper Deadline: | July 05, 2024; 11:59 PM PST |
-| Notification of Acceptance: | July 26th, 2024; 11:59 PM PST |
+| Full Paper Deadline: | June 24, 2024; 11:59 PM PST |
+| Notification of Acceptance: | July 15th, 2024; 11:59 PM PST |
 | MICCAI early bird registration: | August 2024 |
 | Camera-ready version due: | August 2024; 11:59 PST |
 | Pre-recorded talks and summary slide due: | September 2024 |
