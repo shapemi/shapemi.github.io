@@ -16,6 +16,6 @@ This year, the conference will be hybrid, featuring on-site and virtual keynotes
 
 * **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS). We may not be able to include abstracts in the proceedings. 
 
-Please note that at least one co-author **must register** for the workshop by the early bird registration deadline **August TBD 2024**.
+Please note that at least one co-author **must register** for the workshop by the early bird registration deadline **August 25, 2024**.
 
 ![Springer](../images/springer.png "Springer")
