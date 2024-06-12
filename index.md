@@ -46,23 +46,22 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 
 # Advisory Board / Program Committee
 
-- Ellen Gasparovic, Union College, New York, United States
-- Guido Gerig, New York University, New York, United States 
-- James Fishbaugh, Kitware, New York, United States
 - Jens Kleesiek, UK Essen, Essen, Germany
-- Kathryn Leonard, Occidental College, Los Angeles, United States
-- Miaomiao Zhang, University of Virginia, Virginia, United States 
-- Stefan Sommer, University of Copenhagen, Copenhagen, Denmark
-- Steve Pizer, University of North Carolina at Chapel Hill, North Carolina, United States
-- Tim Cootes, Manchester University, Manchester, England
-- Umberto Castellani, University of Verona, Verona, Italy
-- Yonggang Shi, University of Southern California, California, United States
-- Veronika Zimmer, Technical University Munich, Munich, Germany
-- Ilwoo Lyu, Ulsan National Institute of Science and Technology, Ulsan, South Korea
-- Suyash Awate, Indian Institute of Technology, Bombay, India
-- Sungmin Hong, AWS
+- Diana Mateus, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
+- Ellen Gasparovic, Union College, New York, United States
+- Hao Li, vanderBilt Institute for surgery and engineering, Nashville, United States
 - Ilkay Oksuz, Istanbul Technical University, Istanbul, Turkey
-
+- James Fishbaugh, Kitware, New York, United States
+- Kathryn Leonard, Occidental College, Los Angeles, United States
+- Marc Niethammer, University of North Carolina at Chapel Hill, Chapel Hill, United States
+- Miaomiao Zhang, University of Virginia, Virginia, United States
+- Mira Rizkallah, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
+- Tim Cootes, Manchester University, Manchester, England
+- Tinashe Mutsvangwa, Cape Town, South Africa
+- Veronika Zimmer, Technical University Munich, Munich, Germany
+- Yonggang Shi, University of Southern California, California, United States
+- Yoshinobu Sato, Nara Institute of Science and Technology, Nara, Japan
+- Ilwoo Lyu, Ulsan National Institute of Science and Technology, Ulsan, South Korea
 
 
 # Best Paper Award
