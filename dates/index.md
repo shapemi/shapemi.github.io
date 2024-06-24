@@ -6,9 +6,7 @@ order: 5
 ---
 # Important Dates
 
-EXTENSION of DEADLINE for MICCAI ShapeMI 2024 Workshop!
-
-The new deadline is the 29th of June at 11:59 PM PST.
+EXTENSION of DEADLINE for MICCAI ShapeMI 2024 Workshop! <br> The new deadline is the 29th of June at 11:59 PM PST.
 
 | Event | Date |
 |---|:---:|
