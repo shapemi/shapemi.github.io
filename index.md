@@ -62,7 +62,7 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Yonggang Shi, University of Southern California, California, United States
 - Yoshinobu Sato, Nara Institute of Science and Technology, Nara, Japan
 - Ilwoo Lyu, Ulsan National Institute of Science and Technology, Ulsan, South Korea
-- Sarang Joshi, The University of Utah, Utah, United States
+- Sarang Joshi, The University of Utah, Utah, United States 
 
 
 # Best Paper Award
