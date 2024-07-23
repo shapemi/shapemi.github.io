@@ -51,7 +51,6 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Ellen Gasparovic, Union College, New York, United States
 - Hao Li, vanderBilt Institute for surgery and engineering, Nashville, United States
 - Ilkay Oksuz, Istanbul Technical University, Istanbul, Turkey
-- James Fishbaugh, Kitware, New York, United States
 - Kathryn Leonard, Occidental College, Los Angeles, United States
 - Marc Niethammer, University of North Carolina at Chapel Hill, Chapel Hill, United States
 - Miaomiao Zhang, University of Virginia, Virginia, United States
@@ -64,7 +63,7 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Ilwoo Lyu, Ulsan National Institute of Science and Technology, Ulsan, South Korea
 - Sarang Joshi, The University of Utah, Utah, United States
 - Joshua Cates, Kitware, New York, United States
-
+- Martin Styner, University of North Carolina, North Carolina, United States
 
 # Best Paper Award
 
