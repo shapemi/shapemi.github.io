@@ -10,8 +10,8 @@ EXTENSION of DEADLINE for MICCAI ShapeMI 2024 Workshop! <br> The new deadline is
 
 | Event | Date |
 |---|:---:|
-| Full Paper Deadline: | June 29, 2024; 11:59 PM PST |
-| Notification of Acceptance: | July 15th, 2024; 11:59 PM PST |
+| Full Paper Deadline: | ~~June 21, 2024; 11:59 PM PST~~ | June 29, 2024; 11:59 PM PST |
+| Notification of Acceptance: | ~~July 15th, 2024; 11:59 PM PST~~ | July 25, 2024; 11:59 PM PST |
 | MICCAI early bird registration: | August 2024 |
 | Camera-ready version due: | August 2024; 11:59 PST |
 | Pre-recorded talks and summary slide due: | September 2024 |
