@@ -6,4 +6,4 @@ order: 3
 ---
 # Location
 
-Vancouver, Canada
+Marrakech, Morocco, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
