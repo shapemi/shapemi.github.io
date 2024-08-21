@@ -12,7 +12,12 @@ order: 4
 * **Review**: The review is single-blind (submissions should include authors and affiliations). Reviewers will be chosen among experts in the medical image computing community.
 * **Presentations**: The most original contributions will be selected for oral or poster presentations.
 
-This year, the conference will be hybrid, featuring on-site and virtual keynotes and presentations of papers (oral and poster) and demos. For online presentations, authors of accepted papers must submit a pre-recorded presentation shortly (1 day) before the workshop on the 6th of October. All video talks will be released to the workshop attendees so people have time to watch them in advance and prepare questions. Full presentation slides must be sent to the organizers before the workshop for on-site presentations. On the day of the workshop, all attendees will have the option to pitch their project live (on-site or virtually), followed by a short live discussion moderated by the chairs of each session.
+In contrast to previous years, the conference will be held exclusively in person due to possible internet restrictions. 
+The program will comprise keynote speakers and presentations of the accepted papers, delivered in either oral or poster format.
+In the event that the scheduled keynote speakers are unable to attend due to visa or illness-related issues, a pre-recorded video will be utilized as a substitute. 
+All presenters are required to submit their full presentation slides to the organizers prior to the workshop for on-site distribution.
+Following the presentation, the session's chair will facilitate a brief live discussion. 
+Additionally, authors are requested to create a concise video showcasing their posters, which will be displayed on-site and subsequently featured on our website.
 
 * **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS). We may not be able to include abstracts in the proceedings. 
 
