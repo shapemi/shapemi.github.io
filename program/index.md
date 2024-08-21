@@ -1,3 +1,6 @@
+We will post the program when the definite timeslots are available.
+We can confirm that the workshop is on the first day: [MICCAI workshops](https://conferences.miccai.org/2024/en/workshops.asp).
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2023 Program ([PDF](https://jianningli.me/pdfs/shapemiprogram.pdf))
 
 ---
