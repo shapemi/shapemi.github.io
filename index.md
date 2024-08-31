@@ -41,7 +41,7 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - [Christian Wachinger](http://wachinger.devweb.mwn.de/people/), Technical University of Munich, Munich, Germany
 - [Beatriz Paniagua](https://www.kitware.com/beatriz-paniagua/), Kitware Inc. and University of North Carolina at Chapel Hill, USA
 - [Shireen Elhabian](http://www.sci.utah.edu/~shireen/), School of Computing, Scientific Computing and Imaging Institute, University of Utah, USA
-- [Gijs Luijten](https://mml.ikim.nrw/authors/gijs-luijten/), Institut für Künstliche Intelligenz in der Medizin, Universitätsklinikum Essen
+- [Gijs Luijten](https://mml.ikim.nrw/authors/gijs-luijten/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 - [Jan Egger](http://www.janegger.de/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 
 # Advisory Board / Program Committee
