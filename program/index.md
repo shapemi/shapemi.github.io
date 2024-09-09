@@ -18,7 +18,7 @@ We confirm that the workshop is on day one: [MICCAI workshops](https://conferenc
 | ```8:40  - 9:10```  | <span style="color:green">**Object Correspondence for Shape Statistics via Skeletal Geometry (Keynote)** </span>  <!--- <a href="https://drive.google.com/file/d/1Fhbo_9FSumNKkH2H-ZU7p0J8M3MskngL/view?usp=share_link">Slides</a>   -->  |
 | ```9:10  - 9:25```  | **<h5>Deep Combined Computing of Vascular Images with Tubular Shape-Guided Convolution</h5>**                     |   
 | ```9:25  - 9:40``` | **<h5>Weakly Supervised Bayesian Shape Modeling from Unsegmented Medical Images</h5>** |  
-| ```9:40 - 9:55``` | **<h5>MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images</h5>**                             |   
+| ```9:40 - 9:55``` | **<h5>Fast Medical Shape Reconstruction via Meta-learned Implicit Neural Representations</h5>**                             |   
 
 <br>
 
@@ -34,7 +34,7 @@ We confirm that the workshop is on day one: [MICCAI workshops](https://conferenc
 | ```10:45 - 11:15``` | <span style="color:green">**Statistical Shape Analysis of Complex Natural Structures (Keynote)**</span> <!--- <a href="https://drive.google.com/file/d/1-Vg6PHbE4C-BhH03egWd6SBTfNi3SoUF/view?usp=share_link">Slides</a>    -->        | 
 | ```11:15 - 11:30``` | **<h5>Deformable vertebra 3D/2D registration from biplanar X-rays using particle-based shape modelling</h5>**   |
 | ```11:30 - 11:45``` | **<h5>Enhancing Multimodal Image-Based Classification of Alzheimer’s Disease with Surface Information</h5>**                 | 
-| ```11:45 - 12:00``` | **<h5>Fast Medical Shape Reconstruction via Meta-learned Implicit Neural Representations</h5>**                                    | 
+| ```11:45 - 12:00``` | **<h5>MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images</h5>**                                    | 
 
 <br>
 
