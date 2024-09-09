@@ -23,6 +23,7 @@ We confirm that the workshop is on day one: [MICCAI workshops](https://conferenc
 <br>
 
 ```9:55 - 10:15 Coffee break```
+<br>
 ```10:15 - 10:45 Poster session```
 
 <br>
