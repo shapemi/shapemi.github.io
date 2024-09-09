@@ -1,9 +1,59 @@
 We will post the program when the definite timeslots are available.<br>
 We confirm that the workshop is on day one: [MICCAI workshops](https://conferences.miccai.org/2024/en/workshops.asp).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2024 Program ([PDF](https://jianningli.me/pdfs/shapemiprogram.pdf))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2024 Program ([PDF](https://shapemi.github.io))
 
- ```COMING SOON```
+ ```8:00 - 9:00 Registration```
+
+# <span style="color:blue">In-person session (Oral Presentations) </span> <br>
+(live presentations in a conference room)
+
+```8:30 - 8:40 Opening (10 min) ```
+
+```8:40 - 9:55 Block 1 ```
+
+
+| Time   |     Tile    |
+|:--------------|:-----------------------------------|
+| ```8:40  - 9:10```  | <span style="color:green">**Object Correspondence for Shape Statistics via Skeletal Geometry (Keynote)** </span>  <!--- <a href="https://drive.google.com/file/d/1Fhbo_9FSumNKkH2H-ZU7p0J8M3MskngL/view?usp=share_link">Slides</a>   -->  |
+| ```9:10  - 9:25```  | **<h5>Deep Combined Computing of Vascular Images with Tubular Shape-Guided Convolution</h5>**                     |   
+| ```9:25  - 9:40``` | **<h5>Weakly Supervised Bayesian Shape Modeling from Unsegmented Medical Images</h5>** |  
+| ```9:40 - 9:55``` | **<h5>MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images</h5>**                             |   
+
+<br>
+
+```9:55 - 10:15 Coffee break```
+```10:15 - 10:45 Poster session```
+
+<br>
+
+```10:45 - 12:30 Block 2 ```
+
+| Time   |      Tile    |
+|:--------------|:-----------------------------------|
+| ```10:45 - 11:15``` | <span style="color:green">**Statistical Shape Analysis of Complex Natural Structures (Keynote)**</span> <!--- <a href="https://drive.google.com/file/d/1-Vg6PHbE4C-BhH03egWd6SBTfNi3SoUF/view?usp=share_link">Slides</a>    -->        | 
+| ```11:15 - 11:30``` | **<h5>Deformable vertebra 3D/2D registration from biplanar X-rays using particle-based shape modelling</h5>**   |
+| ```11:30 - 11:45``` | **<h5>Enhancing Multimodal Image-Based Classification of Alzheimer’s Disease with Surface Information</h5>**                 | 
+| ```11:45 - 12:00``` | **<h5>Fast Medical Shape Reconstruction via Meta-learned Implicit Neural Representations</h5>**                                    | 
+
+<br>
+
+```12:00 - 12:30 Adjourn / Lunch```
+
+# <span style="color:blue">Virtual on-demand session (Poster Pitches) </span> <br>
+(virtual pitch presentations and live on-site poster session)
+
+**<h6>PSGMM: Pulmonary Segment Segmentation Based on Gaussian Mixture Model</h6>**  
+**<h6>Implicitly Explicit: Segmenting Vertebrae with Deep Implicit Statistical Shape Models</h6>**  
+**<h6>3D Body Twin: Improving Human Gait Visualizations Using Personalized Avatars</h6>**  
+**<h6>Robust Curve Detection in Volumetric Medical Imaging via Attraction Field</h6>**  
+**<h6>A Critical Comparison Between Template-Based and Architecture-Reused Deep Learning Methods for Generic 3D Landmarking of Anatomical Structures</h6>**  
+**<h6>Adaptive Bi-ventricle Surface Reconstruction from Cardiovascular Imaging</h6>**  
+**<h6>Leveraging Expert Knowledge for Real-time Online Adaptation of Intraoperative Liver Registration</h6>**  
+**<h6>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation</h6>**  
+**<h6>Towards Point Cloud-Based Medical Image Registration for Dynamic 4D-CT Imaging</h6>**  
+**<h6>Application of Deep Statistical Shape Modeling for Analysis of Obstructive Sleep Apnea from MRI Data</h6>** 
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2023 Program ([PDF](https://jianningli.me/pdfs/shapemiprogram.pdf))
 
