@@ -64,6 +64,7 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Sarang Joshi, The University of Utah, Utah, United States
 - Joshua Cates, Kitware, New York, United States
 - Martin Styner, University of North Carolina, North Carolina, United States
+- André Ferreira, University of Minho, Portugal, Brage, Portugal
 
 # Best Paper Award
 
