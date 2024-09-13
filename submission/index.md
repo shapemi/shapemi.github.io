@@ -10,7 +10,7 @@ order: 4
 * **Software Demos**: During paper submissions, you can apply for presenting an on-site software demo.
 * **Submission Portal**: [https://cmt3.research.microsoft.com/SHAPEMI2024](https://cmt3.research.microsoft.com/SHAPEMI2024)
 * **Review**: The review is single-blind (submissions should include authors and affiliations). Reviewers will be chosen among experts in the medical image computing community.
-* **Presentations**: The most original contributions will be selected for oral presentation; all contributions will be asked for a poster presentation, including a short 1-1.5 min video.
+* **Presentations**: The most original contributions will be selected for oral presentation; all others will be asked for a poster presentation, including a 3-minute video.
 
 In contrast to previous years, the conference will be held exclusively in person due to possible internet restrictions. 
 The program will comprise keynote speakers and presentations of the accepted papers, delivered in either oral or poster format.
