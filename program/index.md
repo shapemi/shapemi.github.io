@@ -45,15 +45,16 @@ We confirm that the workshop is on day one: [MICCAI workshops](https://conferenc
 (virtual pitch presentations and live on-site poster session)
 
 **<h6>PSGMM: Pulmonary Segment Segmentation Based on Gaussian Mixture Model -- <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>**
-**<h6>Implicitly Explicit: Segmenting Vertebrae with Deep Implicit Statistical Shape Models</h6>**  
-**<h6>3D Body Twin: Improving Human Gait Visualizations Using Personalized Avatars</h6>**  
-**<h6>Robust Curve Detection in Volumetric Medical Imaging via Attraction Field</h6>**  
-**<h6>A Critical Comparison Between Template-Based and Architecture-Reused Deep Learning Methods for Generic 3D Landmarking of Anatomical Structures</h6>**  
-**<h6>Adaptive Bi-ventricle Surface Reconstruction from Cardiovascular Imaging</h6>**  
-**<h6>Leveraging Expert Knowledge for Real-time Online Adaptation of Intraoperative Liver Registration</h6>**  
-**<h6>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation</h6>**  
-**<h6>Towards Point Cloud-Based Medical Image Registration for Dynamic 4D-CT Imaging</h6>**  
-**<h6>Application of Deep Statistical Shape Modeling for Analysis of Obstructive Sleep Apnea from MRI Data</h6>** 
+**<h6>Implicitly Explicit: Segmenting Vertebrae with Deep Implicit Statistical Shape Models -- <a href="https://drive.google.com/open?id=1K1yKVt4-gM-BZhWHA59g7PEv0qJtIVJZ&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1W7KR5rQq5dSYEHAerG3IfmLDT-1SEK4p&usp=drive_fs">Poster</a></h6>**  
+**<h6>3D Body Twin: Improving Human Gait Visualizations Using Personalized Avatars -- <a href="https://drive.google.com/open?id=13km9xKWmRW-g3L8oztpb58R7hEybVgVU&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1bh4R9h4ONBd4MtlctPOZ7aVLeeV-6vnf&usp=drive_fs">Poster</a></h6>**  
+**<h6>Robust Curve Detection in Volumetric Medical Imaging via Attraction Field -- <a href="https://drive.google.com/open?id=1ZWyhNFzvyEAHkP64oLgYMaFvSg_KHwnf&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=16KCE-U0J5FEzM1nj12OGGkym1d6imh3O&usp=drive_fs">Poster</a></h6>**  
+**<h6>A Critical Comparison Between Template-Based and Architecture-Reused Deep Learning Methods for Generic 3D Landmarking of Anatomical Structures -- <a href="https://drive.google.com/open?id=1GaIXl78JaSnUfH5TZ0ChIKI6DWqhRu3G&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1RnnJj2Jf5D1ZDcrGrsbCPhrPUmw_MCCF&usp=drive_fs">Poster</a></h6>**  
+**<h6>Adaptive Bi-ventricle Surface Reconstruction from Cardiovascular Imaging -- <a href="https://drive.google.com/open?id=1FEj5fgPMYa0cDr9Yqsm-f7PuqJk0PooK&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=14KaO78wKa4k31-Gi5gmTYtySx373va01&usp=drive_fs">Poster</a></h6>**  
+
+**<h6>Leveraging Expert Knowledge for Real-time Online Adaptation of Intraoperative Liver Registration -- <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>**  
+**<h6>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation -- <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>**  
+**<h6>Towards Point Cloud-Based Medical Image Registration for Dynamic 4D-CT Imaging -- <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>**  
+**<h6>Application of Deep Statistical Shape Modeling for Analysis of Obstructive Sleep Apnea from MRI Data -- <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>** 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2023 Program ([PDF](https://jianningli.me/pdfs/shapemiprogram.pdf))
