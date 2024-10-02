@@ -66,10 +66,6 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Martin Styner, University of North Carolina, North Carolina, United States
 - André Ferreira, University of Minho, Portugal, Brage, Portugal
 
-# Best Paper Award
-
-TBD
-
 ![MICCAI 2024](images/miccai2024-logo.png "27th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2024")
 
 
