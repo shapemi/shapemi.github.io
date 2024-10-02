@@ -44,7 +44,7 @@ We confirm that the workshop is on day one: [MICCAI workshops](https://conferenc
 # <span style="color:blue">Virtual on-demand session (Poster Pitches) </span> <br>
 (virtual pitch presentations and live on-site poster session)
 
-**<h6>PSGMM: Pulmonary Segment Segmentation Based on Gaussian Mixture Model <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>**
+**<h6>PSGMM: Pulmonary Segment Segmentation Based on Gaussian Mixture Model -- <a href="https://drive.google.com/open?id=1qltY19MS9Qv-uvcolqV1QSpaKAQR19qR&usp=drive_fs">Video Pitch</a> / <a href="https://drive.google.com/open?id=1B_zNK0QY2mgKAXiCrRKy6lUD2Xfseskb&usp=drive_fs">Poster</a></h6>**
 **<h6>Implicitly Explicit: Segmenting Vertebrae with Deep Implicit Statistical Shape Models</h6>**  
 **<h6>3D Body Twin: Improving Human Gait Visualizations Using Personalized Avatars</h6>**  
 **<h6>Robust Curve Detection in Volumetric Medical Imaging via Attraction Field</h6>**  
