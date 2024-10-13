@@ -1,4 +1,4 @@
-We will post the program when the definite timeslots are available.<br>
+We will post the program when the definite timeslots are available.<br> 
 We confirm that the workshop is on day one: [MICCAI workshops](https://conferences.miccai.org/2024/en/workshops.asp).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2024 Program ([PDF](https://shapemi.github.io))
