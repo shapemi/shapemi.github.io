@@ -6,4 +6,4 @@ order: 3
 ---
 # Location
 
-Marrakech, Morocco, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+Daejeon, Republic of Korea, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
