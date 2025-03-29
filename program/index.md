@@ -1,4 +1,5 @@
-We will post the program when the definite timeslots are available.<br> 
+**TBD**
+<!-- We will post the program when the definite timeslots are available.<br> 
 We confirm that the workshop is on day one: [MICCAI workshops](https://conferences.miccai.org/2024/en/workshops.asp).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ShapeMI 2024 Program ([PDF](https://shapemi.github.io))
@@ -118,4 +119,6 @@ We confirm that the workshop is on day one: [MICCAI workshops](https://conferenc
 | ```14:20 - 14:25``` | **<h6><a href="https://drive.google.com/file/d/1IIc80UxFUsgD0FZGYIXR1de903F1dMhE/view?usp=drive_link">DeCA: A Dense Correspondence Analysis Toolkit for Shape Analysis</a></h6>**     | 
 
 <br>
+
+-->
 
