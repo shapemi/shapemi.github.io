@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Keynotes
-permalink: /keynotes/
+title: Keynotes2024
 order: 1
 nav_exclude: true  # if you want it hidden from nav
 ---
