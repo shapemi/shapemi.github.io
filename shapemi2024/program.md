@@ -4,6 +4,7 @@ title: program2024
 nav_exclude: true  # if you want it hidden from nav
 ---
 
+# Program 2024
 
 We will post the program when the definite timeslots are available.<br> 
 We confirm that the workshop is on day one: [MICCAI workshops](https://conferences.miccai.org/2024/en/workshops.asp).
