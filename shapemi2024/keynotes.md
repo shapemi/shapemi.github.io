@@ -3,6 +3,7 @@ layout: default
 title: Keynotes
 permalink: /keynotes/
 order: 1
+nav_exclude: true  # if you want it hidden from nav
 ---
 # Keynotes
 
