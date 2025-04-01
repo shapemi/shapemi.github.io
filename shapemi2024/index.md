@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ShapeMI 2024
+nav_exclude: true
 ---
 
 
