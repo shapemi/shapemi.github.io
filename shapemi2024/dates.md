@@ -5,7 +5,7 @@ order: 5
 nav_exclude: true  # if you want it hidden from nav
 ---
 
-# Important Dates
+# Important Dates 2024
 
 | Event | Date | Extension (if applicable) |
 |---|:---:|:---:|
