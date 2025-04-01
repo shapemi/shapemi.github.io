@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whatever
+title: program2024
 nav_exclude: true  # if you want it hidden from nav
 ---
 
