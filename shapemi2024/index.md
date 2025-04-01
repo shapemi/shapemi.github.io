@@ -1,3 +1,8 @@
+---
+layout: default
+title: ShapeMI 2024
+---
+
 ![ShapeMI](images/LogoShapeMI.png "ShapeMI MICCAI 2024: 4th Workshop on Shape in Medical Imaging")
 
 <p align="justify"> We gladly announce the workshop on <span style="font-weight:bold">Shape</span> in <span style="font-weight:bold">M</span>edical <span style="font-weight:bold">I</span>maging (ShapeMI), which is held in conjunction with the conference on Medical Image Computing and Computer Assisted Interventions (<a href="https://conferences.miccai.org/2024/en/" target="_blank">MICCAI 2024</a>) in Marrakesh, Morocco. This workshop is the fourth instance of ShapeMI, after successful <a href="https://shapemi.github.io/shapemi2018/" target="_blank">ShapeMI'18</a>, <a href="https://shapemi.github.io/shapemi2020/" target="_blank">ShapeMI'20</a> and <a href="https://shapemi.github.io/shapemi2023/" target="_blank">ShapeMI'23</a>.
