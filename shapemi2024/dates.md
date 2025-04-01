@@ -3,6 +3,7 @@ layout: default
 title: Dates
 permalink: /dates/
 order: 5
+nav_exclude: true  # if you want it hidden from nav
 ---
 # Important Dates
 
