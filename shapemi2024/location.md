@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Location2024
-permalink: /location/
 order: 3
 nav_exclude: true  # if you want it hidden from nav
 ---
