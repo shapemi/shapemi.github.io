@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Dates
-permalink: /dates/
+title: Dates2024
 order: 5
 nav_exclude: true  # if you want it hidden from nav
 ---
