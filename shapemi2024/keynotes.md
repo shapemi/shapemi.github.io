@@ -5,7 +5,7 @@ order: 1
 nav_exclude: true  # if you want it hidden from nav
 ---
 
-# Keynotes
+# Keynotes 2024
 
 ## Anuj Srivastava
 <img style="float: left; margin: 0 15px 15px 0;" src="../images/anuj_srivastava.jpg" alt="Anuj Srivastava">
