@@ -53,7 +53,7 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Jens Kleesiek, UK Essen, Essen, Germany
 - Diana Mateus, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
 - Ellen Gasparovic, Union College, New York, United States
-- Hao Li, Vanderbilt University School of Engineering, Nashville, United States
+- Hao Li, Vanderbilt University, Nashville, United States
 - Marc Niethammer, University of North Carolina at Chapel Hill, Chapel Hill, United States
 - Miaomiao Zhang, University of Virginia, Virginia, United States
 - Mira Rizkallah, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
