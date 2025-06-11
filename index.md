@@ -58,7 +58,7 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - Miaomiao Zhang, University of Virginia, Virginia, United States
 - Mira Rizkallah, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
 - Tim Cootes, Manchester University, Manchester, England
-- Tinashe Mutsvangwa, Cape Town, South Africa
+- Tinashe Mutsvangwa, IMT-Atlantique, Nantes, France; University of Cape Town, Cape Town, South Africa
 - Veronika Zimmer, Technical University Munich, Munich, Germany
 - Yonggang Shi, University of Southern California, California, United States
 - Yoshinobu Sato, Nara Institute of Science and Technology, Nara, Japan
