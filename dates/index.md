@@ -8,10 +8,10 @@ order: 5
 
 | Event | Date | Extension (if applicable) |
 |---|:---:|:---:|
-| Full Paper Deadline: | June 25, 2025; 11:59 PM PST |  |
-| Notification of Acceptance: | July 16, 2025; 11:59 PM PST |  |
+| Full Paper Deadline: | ~~June 25, 2025; 11:59 PM PST~~ July 4th, 2025; 11:59 PM PST |  |
+| Notification of Acceptance: | ~~July 16, 2025; 11:59 PM PST~~ July 23th, 2025; 11:59 PM PST |  |
 | MICCAI early bird registration: |  TBD | |
-| Camera-ready version due: | July 30, 2025; 11:59 PM PST | |
+| Camera-ready version due: | ~~July 30~~ August 4th, 2025; 11:59 PM PST | |
 | Pre-recorded talks and summary slide due: | August 2025 | Poster and Pitch video: TBD (AoE), Slides presentation: TBD (AoE) |
 | Pre-recorded pitch videos and posters released online: | September 2025 |  |
 | (Slides) talks released online: | September 2025 | at latest after the conference |
