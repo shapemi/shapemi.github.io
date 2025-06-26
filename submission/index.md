@@ -21,7 +21,7 @@ Additionally, authors are requested to create a concise video showcasing their p
 
 * **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS).
   
-Please note that at least one co-author **must register** for the workshop by MICCAI's 2025 early bird registration deadline **TBD**.
+Please note that at least one co-author **must register** for the workshop by MICCAI's 2025 (early bird) registration deadline **TBD**.
 
 **Acknowledgment**: The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
