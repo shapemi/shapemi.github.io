@@ -8,7 +8,7 @@ order: 5
 
 | Event | Date | Extension (if applicable) |
 |---|:---:|:---:|
-| Full Paper Deadline: | ~~June 25, 2025; 11:59 PM PST~~ July 4th, 2025; 11:59 PM PST |  |
+| Full Paper Deadline: | ~~June 25, 2025; 11:59 PM PST~~ June 30th, 2025; 11:59 PM PST |  |
 | Notification of Acceptance: | ~~July 16, 2025; 11:59 PM PST~~ July 23th, 2025; 11:59 PM PST |  |
 | MICCAI early bird registration: |  TBD | |
 | Camera-ready version due: | ~~July 30~~ August 4th, 2025; 11:59 PM PST | |
