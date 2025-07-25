@@ -6,12 +6,17 @@ order: 5
 ---
 # Important Dates
 
+**Notice to Participants**
+We regret to inform you that there has been a delay in the review process. 
+The organizing committee is currently handling the reviews and will provide all authors with a detailed timeline by 1 August.
+
+
 | Event | Date | Extension (if applicable) |
 |---|:---:|:---:|
 | Full Paper Deadline: | ~~June 25, 2025; 11:59 PM PST~~ July 1st, 2025; 11:59 PM PST |  |
-| Notification of Acceptance: | ~~July 16, 2025; 11:59 PM PST~~ July 23th, 2025; 11:59 PM PST |  |
-| MICCAI early bird registration: |  TBD | |
-| Camera-ready version due: | ~~July 30~~ August 4th, 2025; 11:59 PM PST | |
+| Notification of Acceptance: | ~~July 16, 2025; 11:59 PM PST~~ ~~July 23th, 2025~~ To be announced; ~~11:59 PM PST~~ |  |
+| MICCAI early bird registration: |  August 11th, 2025 | |
+| Camera-ready version due: | ~~July 30~~ August 11th, 2025; 11:59 PM PST | |
 | Pre-recorded talks and summary slide due: | August 2025 | Poster and Pitch video: TBD (AoE), Slides presentation: TBD (AoE) |
 | Pre-recorded pitch videos and posters released online: | September 2025 |  |
 | (Slides) talks released online: | September 2025 | at latest after the conference |
