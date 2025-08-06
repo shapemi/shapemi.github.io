@@ -20,7 +20,7 @@ The organizing committee is currently handling the reviews and will provide all 
 | Pre-recorded talks and summary slide due: | August 2025 | Poster and Pitch video: TBD (AoE), Slides presentation: TBD (AoE) |
 | Pre-recorded pitch videos and posters released online: | September 2025 |  |
 | (Slides) talks released online: | September 2025 | at latest after the conference |
-| ShapeMI workshop date: | September 23rd 2025 (MICCAI 2025 Day 1)  | |
+| ShapeMI workshop date: | September 27nd 2025 (MICCAI 2025 - second workshop day)  | |
 
 
 <!--
