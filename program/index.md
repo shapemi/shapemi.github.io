@@ -9,8 +9,7 @@ order: 2
 **Date**: Saturday, 27 September 2025  
 **Time**: 13:30–18:00  
 
-
-![MICCAI Schedule](images/miccaischedule.png){width=400px}
+![](../images/miccaischedule.png){width=400px}
 
 ---
 
