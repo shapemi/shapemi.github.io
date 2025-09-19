@@ -134,6 +134,3 @@ These materials are listed here for reference.
   *Nabil Jabareen; Dongsheng Yuan; Dingming Liu; Foo-Wei Ten; and Sören Lukassen*  
   📄 [Poster](https://drive.google.com/file/d/1yy4d4vLQ_COCzyLK7A5CGs1T1JhdyrwK/view?usp=drive_link) · 🎥 [3-min Explainer](https://drive.google.com/file/d/12b0nrxYP1FSpvy6jA8vMccmv0EEaMQoB/view?usp=drive_link)
 
-* **[US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery]**  
-  *Miruna-Alexandra Gafencu; Yordanka Velikova; Nassir Navab and Mohammad Farid Azampour*  
-  📄 [Poster](https://drive.google.com/file/d/1u913yl5ZJPr91Aq8UZT9cC0gfihQTADR/view?usp=drive_link) · 
