@@ -33,10 +33,11 @@ order: 2
 | Time         | Title                                                                                                           | Speaker(s) |
 |:-------------|:----------------------------------------------------------------------------------------------------------------|:-----------|
 | 16:00–16:45  | **Keynote**: The Role of Riemannian Geometry in Deep Learning                                                   | Tom Fletcher |
-| 16:45–17:05  | Benchmarking Evaluation Metrics for Tubular Structure Segmentation in Biomedical Images                         | *Meghane Decroocq*; Charissa Poon; Matthias Schlachter; Henrik Skibbe |
-| 17:05–17:25  | Anisotropic Fourier Features for Positional Encoding in Medical Imaging                                         | *Nabil Jabareen*; Dongsheng Yuan; Dingming Liu; Foo-Wei Ten; Sören Lukassen |
-| 17:25–17:45  | Spherical Brownian Bridge Diffusion Models for Conditional Cortical Thickness Forecasting                       | *Fabian Bongratz*; Ivan Stoyanov; Christian Wachinger |
-| 17:45–18:00  | Closing                                                                                                         | Gijs Luijten |
+|16:45-17.00|Siemens Healthineers Cinematic Rendering on the Apple Vision Pro |Robert Schneider|
+| 17:00–17:20  | Benchmarking Evaluation Metrics for Tubular Structure Segmentation in Biomedical Images                         | *Meghane Decroocq*; Charissa Poon; Matthias Schlachter; Henrik Skibbe |
+| 17:20–17:40  | Anisotropic Fourier Features for Positional Encoding in Medical Imaging                                         | *Nabil Jabareen*; Dongsheng Yuan; Dingming Liu; Foo-Wei Ten; Sören Lukassen |
+| 17:40–18:00  | Spherical Brownian Bridge Diffusion Models for Conditional Cortical Thickness Forecasting                       | *Fabian Bongratz*; Ivan Stoyanov; Christian Wachinger |
+| 18:00–18:05  | Closing                                                                                                         | Gijs Luijten |
 
 ---
 
