@@ -97,7 +97,8 @@ order: 2
 
 * **Deep Learning Enables Large-Scale Shape and Appearance Modeling in Total-Body DXA Imaging**  
   *Arianna Bunnell*; Devon Cataldi; Yannik Glaser; Thomas Wolfgruber; Steven Heymsfield; Alan Zonderman; Thomas Kelly; Peter Sadowski; John Shepherd  
-  📄 [Poster](https://drive.google.com/file/d/1cSWXPIhqZehNBDudp0TVo0xuid_XDyhc/view?usp=drive_link) 
+  📄 [Poster](https://drive.google.com/file/d/1cSWXPIhqZehNBDudp0TVo0xuid_XDyhc/view?usp=drive_link)
+  🎥 [3-min Explainer](https://drive.google.com/file/d/1FjLQNUp7Ot-34SUX7rSsD7UPsZTKtJ_Q/view?usp=drive_link)
 
 * **GReAT: Leveraging Geometric Artery Data to Improve Wall Shear Stress Assessment**  
   *Julian Suk*; Jolanda Wentzel; Patryk Rygiel; Joost Daemen; Daniel Rueckert; Jelmer Wolterink  
