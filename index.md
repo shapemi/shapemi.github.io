@@ -68,5 +68,5 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 
 ![MICCAI 2025](images/miccai2025-logo.png "28th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2025")
 
-# Sponsors
+# Sponsor
 ![Siemens](images/sh_logo_rgb.svg "Siemens")
