@@ -6,18 +6,7 @@ order: 1
 ---
 # Keynotes
 
-![ShapeMI]({{ "/images/fletcher_headshot2.png" | relative_url }})
-
-![ShapeMI]({{ "/images/fletcher_headshot2.png" | relative_url }} "ShapeMI MICCAI 2025: Keynote fletcher")
-
 ![ShapeMI](/images/fletcher_headshot2.png)
-
-![ShapeMI]({{ "/images/fletcher_headshot2.png" | relative_url }})
-
-![ShapeMI](/images/fletcher_headshot2.png)
-
-![ShapeMI](/images/fletcher_headshot2.png "ShapeMI MICCAI 2025: Keynote fletcher")
-
 
 **Short bio**
 Tom Fletcher is an Associate Professor in Electrical and Computer Engineering and also Computer Science at the University of Virginia. Prior to joining UVA, he was faculty at the School of Computing and the Scientific Computing and Imaging Institute at the University of Utah from 2009 - 2018. His main research expertise lies in the areas of statistical modeling of high-dimensional and nonlinear data from images, anatomical shape analysis, and brain connectivity analysis from functional and diffusion MR images. His work in these areas has been recognized with seven best paper awards in the top image analysis and computer vision conferences (MICCAI, IPMI, ISBI, ICCV), workshops (ShapeMI), and journals (MedIA, Signal Processing).
@@ -25,7 +14,7 @@ Tom Fletcher is an Associate Professor in Electrical and Computer Engineering an
 **Talk abstract**
 In this talk I will present several ways in which Riemannian geometry plays a role in deep neural networks. The first is in deep generative models, which learn a mapping from a low-dimensional latent space to a high-dimensional data space. Under certain regularity conditions, these models parameterize nonlinear manifolds in the data space. We develop efficient algorithms for computing geodesic curves and distances on such manifolds. Second, I show that classification models also naturally involve manifold geometry. This has implications for adversarial examples, where small perturbations of an input can surprisingly fool an otherwise accurate classifier. Using concepts from information geometry, we show how to find directions that fool a classifier with minimal perturbation. In the final application of manifold geometry, I will present recent work on making deep classifiers more interpretable by relating their geometry to gradients of interpretable features.
 
-![ShapeMI](images/bastianl_photo.JPG)
+![ShapeMI](/images/bastianl_photo.JPG)
 
 **Short bio**
 Lennart is a PhD candidate at TU Munich's CAMP lab under Prof. Nassir Navab, and an incoming research fellow at Imperial College London. Originally trained in applied mathematics (with early stints in NYC and California's tech scene), he found his calling at the intersection of geometry, machine learning, and clinical applications. His work focuses on making sense of the real world in 3D, teaching computers to understand complex surgical environments through a geometric lens.
