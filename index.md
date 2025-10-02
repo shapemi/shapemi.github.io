@@ -43,10 +43,10 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 
 # Organizers
 - [Christian Wachinger](http://wachinger.devweb.mwn.de/people/), Technical University of Munich, Munich, Germany
-- [Shireen Elhabian](http://www.sci.utah.edu/~shireen/), School of Computing, Scientific Computing and Imaging Institute, University of Utah, USA
 - [Gijs Luijten](https://mml.ikim.nrw/authors/gijs-luijten/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
-- [Jan Egger](http://www.janegger.de/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
+- [Shireen Elhabian](http://www.sci.utah.edu/~shireen/), School of Computing, Scientific Computing and Imaging Institute, University of Utah, USA
 - [Karthik Gopinath](https://lcn.martinos.org/people/karthik-gopinath/), Harvard Medical School, Massachusetts General Hospital, USA
+- [Jan Egger](http://www.janegger.de/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 
 # Advisory Board / Program Committee
 
