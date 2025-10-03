@@ -77,7 +77,7 @@ order: 2
 
 * **OsteoDeform: Osteophyte-Aware Shape Deformations of Distal Femur Models for Surgical Planning in Total Knee Arthroplasty**  
   *Srivibha Parthasarathy*; Sowjanya Balaji; Vivek Maik; Manojkumar Lakshmanan; Mohanasankar Sivaprakasam  
-  📄 [Poster](https://drive.google.com/file/d/1aJA9x6rsVUF1Wy7L_j78oee7_HdrP-al/view?usp=drive_link) · 🎥 [3-min Explainer](https://drive.google.com/file/d/1JTbRKjUio7vpXrywnN39fALVipuZTzO-/view?usp=drive_link)
+  📄 [Poster](https://drive.google.com/file/d/1aJA9x6rsVUF1Wy7L_j78oee7_HdrP-al/view?usp=drive_link) · 🎥 [3-min Explainer](https://drive.google.com/file/d/1m3YWavq91g-tolEPu_x3sN-9a0oC1SSK/view?usp=drive_link)
 
 * **Spline-based Shape Compression for Interventional Device Tracking**  
   *Roman Pavelkin*; Luis A. Zavala-Mondragon; Fons van der Sommen; Ahmet Ekin  
