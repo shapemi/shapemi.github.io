@@ -23,25 +23,25 @@ https://link.springer.com/book/10.1007/978-3-031-46914-5
 We are happy to announce the recipients of the ShapeMI 2025 Best Paper Awards, selected based on the highest normalized reviewer scores from all eligible submissions at MICCAI. The awards are generously sponsored by Siemens Healthineers.
 
 “Anatomically-Focused Patches for Lightweight and Explainable Knee OA Grading”
-Tien-En Chang; Herve Lombaert
-📄 [Poster](https://drive.google.com/file/d/1PAkztFKjC9AUdmyCeJWU1iQzFDYTcCHz/view?usp=drive_link)
-🎥 [3-min Explainer](https://drive.google.com/file/d/1prF1bniU--easwR5xN8mtj5xQv8Mko9O/view?usp=drive_link)
-[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_6)
+Tien-En Chang; Herve Lombaert<br>
+📄 [Poster](https://drive.google.com/file/d/1PAkztFKjC9AUdmyCeJWU1iQzFDYTcCHz/view?usp=drive_link) <br>
+🎥 [3-min Explainer](https://drive.google.com/file/d/1prF1bniU--easwR5xN8mtj5xQv8Mko9O/view?usp=drive_link)<br>
+[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_6)<br>
   
-“Anisotropic Fourier Features for Positional Encoding in Medical Imaging”
-Nabil Jabareen; Dongsheng Yuan; Dingming Liu; Foo-Wei Ten; and Sören Lukassen 
-📄 [Poster](https://drive.google.com/file/d/1yy4d4vLQ_COCzyLK7A5CGs1T1JhdyrwK/view?usp=drive_link)
-🎥 [3-min Explainer](https://drive.google.com/file/d/12b0nrxYP1FSpvy6jA8vMccmv0EEaMQoB/view?usp=drive_link)
-[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_1)
+“Anisotropic Fourier Features for Positional Encoding in Medical Imaging”<br>
+Nabil Jabareen; Dongsheng Yuan; Dingming Liu; Foo-Wei Ten; and Sören Lukassen <br>
+📄 [Poster](https://drive.google.com/file/d/1yy4d4vLQ_COCzyLK7A5CGs1T1JhdyrwK/view?usp=drive_link)<br>
+🎥 [3-min Explainer](https://drive.google.com/file/d/12b0nrxYP1FSpvy6jA8vMccmv0EEaMQoB/view?usp=drive_link)<br>
+[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_1)<br>
 
-“Benchmarking Evaluation Metrics for Tubular Structure Segmentation in Biomedical Images”
-Meghane Decroocq; Charissa Poon; Matthias Schlachter; Henrik Skibbe
-[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_7)
+“Benchmarking Evaluation Metrics for Tubular Structure Segmentation in Biomedical Images”<br>
+Meghane Decroocq; Charissa Poon; Matthias Schlachter; Henrik Skibbe<br>
+[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_7)<br>
 
-“Parametric shape models for vessels learned from segmentations via differentiable voxelization”
-Alina Dima; Suprosanna Shit; Huaqi Qiu; Robbie Holland; Tamara Mueller; Fabio Musio; Kaiyuan Yang; Bjoern Menze; Rickmer Braren; Marcus Makowski; Daniel Rueckert  
-📄 [Poster](https://drive.google.com/file/d/16PDovPDkWaDEMgrvSAZD4M_m_Q8BDWQY/view?usp=drive_link) 
-[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_19)
+“Parametric shape models for vessels learned from segmentations via differentiable voxelization”<br>
+Alina Dima; Suprosanna Shit; Huaqi Qiu; Robbie Holland; Tamara Mueller; Fabio Musio; Kaiyuan Yang; Bjoern Menze; Rickmer Braren; Marcus Makowski; Daniel Rueckert <br> 
+📄 [Poster](https://drive.google.com/file/d/16PDovPDkWaDEMgrvSAZD4M_m_Q8BDWQY/view?usp=drive_link) <br>
+[Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-06774-6_19)<br>
 
 Congratulations to all authors for their excellent contributions to ShapeMI 2025 and the medical shape analysis community. 
 
