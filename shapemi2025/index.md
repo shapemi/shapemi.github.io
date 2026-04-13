@@ -14,6 +14,12 @@ The goal of this workshop continues being a venue for the presentation of the le
 Today’s image data usually represents 3D geometric structures, often describing continuous and time-varying phenomena. Therefore, shape and geometry processing methods have been receiving increased attention, for example, due to their higher sensitivity to local variations relative to traditional markers, such as the volume of a structure. Shape and spectral analysis, learning and modeling algorithms, as well as application-driven research are at the focus of this workshop. In Medical Image Computing or Computer Aided Intervention, the understanding of shapes and their geometrical representations enables the modeling and analysis of organs, of anatomical or functional structures, as well as of high-dimensional structures in datasets representing population or disease data.
  </p>
 
+ ## Quick links 2024
+- [Keynotes 2025](keynotes.md)
+- [Program 2025](program.md)
+- [Location 2025](location.md)
+- [Important Dates 2025](dates.md)
+
 # 2025 Proceedings
 
 https://link.springer.com/book/10.1007/978-3-032-06774-6
