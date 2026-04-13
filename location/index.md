@@ -6,4 +6,4 @@ order: 3
 ---
 # Location
 
-Daejeon, Republic of Korea, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
+Abu Dhabi, UEA, [MICCAI 2026](https://conferences.miccai.org/2026/en/)
