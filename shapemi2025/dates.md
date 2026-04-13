@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Dates
+title: Dates2025
 permalink: /dates/
 order: 5
+nav_exclude: true
 ---
 # Important Dates
 

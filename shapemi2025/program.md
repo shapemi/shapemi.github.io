@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Program
+title: Program2025
 permalink: /program/
 order: 2
+nav_exclude: true
 ---
 # ShapeMI MICCAI 2025: Workshop on Shape in Medical Imaging
 
