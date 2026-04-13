@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Location2025
-permalink: /location/
 order: 3
 nav_exclude: true
 ---

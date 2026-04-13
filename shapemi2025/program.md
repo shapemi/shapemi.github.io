@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Program2025
-permalink: /program/
 order: 2
 nav_exclude: true
 ---

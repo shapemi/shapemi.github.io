@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Dates2025
-permalink: /dates/
 order: 5
 nav_exclude: true
 ---

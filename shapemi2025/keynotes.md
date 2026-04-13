@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Keynotes2025
-permalink: /keynotes/
 order: 1
 nav_exclude: true
 ---
