@@ -8,7 +8,7 @@ order: 4
 
 * **Papers**: Full papers (8-15 pages, excluding references) formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (Template:    [Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1)). Refer to [Instructions for Authors](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/).
 * **Software Demos**: During paper submissions, you can apply for presenting an on-site software demo.
-* **Submission Portal**: [OpenReview.Net](https://openreview.net/group?id=MICCAI.org%252F2026%252FWorkshop%252FShapeMI)
+* **Submission Portal**: [OpenReview.Net](https://openreview.net/group?id=MICCAI.org%252F2026%252FWorkshop%252FShapeMI) <br>
 *Please note that university accounts will be verified automatically - Accounts that cannot be automatically verified may take up to 2 weeks to be activated. To expedite the process, we recommend using an email address from a recognized institution, or completing your profile information as thoroughly as possible to help us verify your affiliation.*
 * **Review**: The review is single-blind (submissions should include authors and affiliations). Reviewers will be chosen among experts in the medical image computing community.
 * **Presentations**: The most original contributions will be selected for oral presentation; all others will be asked for a poster presentation, including a 3-minute video.
