@@ -13,7 +13,7 @@ We are excited to welcome two distinguished keynote speakers to ShapeMI 2026. Mo
 
 ## Dr. Krithika Iyer
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-top: 1rem; margin-bottom: 2rem;">
+<img src="/images/Krithika_Iyer.jpg" alt="Dr. Krithika Iyer" style="width: 100%; border-radius: 12px;">
 
 <div style="flex: 0 0 240px;">
   <img src="/images/Krithika_lyer.jpg" alt="Dr. Krithika Iyer" style="width: 100%; border-radius: 12px;">
