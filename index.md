@@ -88,38 +88,21 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 
 As in previous years, we will have a highly qualified advisory board, similar to ShapeMI 2018, 2020, 2023, 2024, and 2025, as listed below.
 
-- Aasa Feragen, DIKU
-- Claudia Lindner, U Manchester
-- Diana Mateus, EC Nantes
-- Ellen Gasparovic, Union College, NY
-- Ender Konukoglu, ETH Zürich
-- Guido Gerig, NYU
-- James Fishbaugh, NYU
-- Julia Schnabel, TUM
-- Julien Lefèvre, U Aix-Marseille
-- Kathryn Leonard, OXI
-- Kilian Pohl, SRI International
-- Marc Niethammer, UCSD
-- Martin Styner, UNC
-- Marius Linguraru, Children’s National Medical Center
-- Miaomiao Zhang, UVA
-- Philippe Buechler, U Bern
-- Stefan Sommer, U Copenhagen
-- Steve Pizer, UNC
-- Tim Cootes, U Manchester
-- Tinashe Mutsvangwa, U Cape Town
-- Thomas Vetter, U Basel
-- Umberto Castellani, U Verona
-- Washington Mio, FSU
-- Xavier Pennec, INRIA Sophia Antipolis
-- Yonggang Shi, USC
-- Yoshinobu Sato, NAIST
-- Herve Lombaert, ETS Montreal, Canada & Inria Sophia-Antipolis, France
-- Martin Reuter, German Center for Neurodegenerative Diseases, Bonn, Germany &
-Harvard Medical School, Boston, USA
-- Bernhard Egger, FAU Erlangen-Nbg
+- Suyash Awate, Indian Institute of Technology Bombay, Mumbai, India
+- Tim Cootes, University of Manchester, Manchester, United Kingdom
+- André Ferreira, University of Minho, Braga, Portugal
+- Ellen Gasparovic, Union College, Schenectady, United States
+- Hao Li, Vanderbilt University, Nashville, United States
+- Kathryn Leonard, Occidental College, Los Angeles, United States
 - Jens Kleesiek, UK Essen, Essen, Germany
-- Behrus Puladi, RWTH Aachen
+- Diana Mateus, École Centrale de Nantes, Nantes, France
+- Marc Niethammer, University of North Carolina at Chapel Hill, Chapel Hill, United States
+- Ilkay Oksuz, Istanbul Technical University, Istanbul, Turkey
+- Steve Pizer, University of North Carolina at Chapel Hill, Chapel Hill, United States
+- Behrus Hinrichs-Puladi, RWTH Aachen University, Aachen, Germany
+- Mira Rizkallah, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
+- Stefan Sommer, University of Copenhagen, Copenhagen, Denmark
+- Martin Styner, University of North Carolina at Chapel Hill, Chapel Hill, United States
 
 
 ![MICCAI 2026](images/miccai2026-logo.png "29th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2026")
