@@ -7,8 +7,6 @@ order: 1
 
 # Keynotes
 
-We are excited to welcome two distinguished keynote speakers to ShapeMI 2026. More details about the keynote talks will be announced soon.
-
 ---
 
 ## Dr. Krithika Iyer
