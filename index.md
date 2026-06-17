@@ -17,9 +17,7 @@ A new theme of ShapeMI 2026 is how shape is being integrated with modern AI
 architectures. Recent progress in transformer-based point cloud models, equivariant
 neural networks, neural fields, and large geometric foundation models is reshaping how
 core concepts of computational anatomy are operationalized through applied research in
-healthcare. We will look forward to receiving methodology or applied research in topics that
-
-emphasize how classical shape theory informs the design, interpretability, and
+healthcare. We will look forward to receiving methodology or applied research in topics that emphasize how classical shape theory informs the design, interpretability, and
 generalization of modern geometric deep learning models. Furthermore, anatomical shape
 does not exist in isolation, and biomedical research that only includes shape will generate
 discoveries that will remain siloed within the structural realm. This workshop will place
