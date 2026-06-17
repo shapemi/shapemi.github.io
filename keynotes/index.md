@@ -33,8 +33,22 @@ Her research has appeared in leading venues including MICCAI, IPMI, ISBI, MIUA, 
 
 ---
 
-## Second Keynote Speaker
+## Dr. Enzo Ferrante
 
-Details coming soon.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-top: 1.5rem; margin-bottom: 2rem;">
 
-Stay tuned for the announcement of our second keynote speaker for ShapeMI 2026.
+<div style="flex: 0 0 180px;">
+  <img src="/images/Enzo_Ferrante.jpg" alt="Dr. Enzo Ferrante" style="width: 180px; border-radius: 10px;">
+</div>
+
+<div style="flex: 1; min-width: 280px;">
+
+Dr. Ferrante completed his PhD in Computer Science at Université Paris-Saclay and INRIA (Paris, France), carried out postdoctoral research at Imperial College London (UK), and earned a Systems Engineering degree from UNICEN University (Tandil, Argentina). He has also been a visiting PhD student at Stanford University, a Fulbright Visiting Researcher at Harvard Medical School in Boston, Invited Professor at Université Paris-Saclay, France, and Von Humboldt Visiting Researcher at the Technical University of Munich.<br>
+
+His research interests span machine learning for computer vision and NLP, with a focus on fairness and robustness in biomedical imaging. His papers have been published in top tier conferences like MICCAI, ICLR, ECCV, ICCV, ACL and journals like PNAS, Nature Machine Intelligence, Nature Communications, MedIA, IEEE TMI, The Lancet Digital Health, the BMJ among others.<br>
+
+He is currently a Staff Research Scientist at the Institute of Computer Sciences of University of Buenos Aires and Argentina’s National Research Council (CONICET), where he leads a group at the [Applied Artificial Intelligence Lab](https://www.liaa.dc.uba.ar/). His research has been recognized with several awards, such as the Google Award for Inclusion Research, the Distinguished International Associate Award from the UK Royal Academy of Engineering, and the Friederich Wilhelm Bessel Award from the Von Humboldt Foundation, among others.<br>
+
+</div>
+
+</div>
