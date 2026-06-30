@@ -23,7 +23,7 @@ Additionally, authors are requested to create a concise video showcasing their p
 
 * **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS) and selected high-quality papers may be invited for journal extension to the [MELBA](https://www.melba-journal.org/) (Machine Learning for Biomedical Imaging) journal, in addition to publication in LNCS.
   
-Please note that at least one co-author **must register** for the workshop by MICCAI's 2026 (early-bird) registration deadline and be available on-site **TBD**.
+Please note that at least one co-author **must register** for the workshop by MICCAI's 2026 (early-bird) registration deadline and be available on-site **Room Name (floor) Berlin (G)**.
 
 **Acknowledgment**: The [OpenReview](OpenReview.net) service was used for managing the peer-reviewing process for this conference. This service was provided for free by the nonprofit OpenReview Foundation, and they bore all expenses, including costs for cloud services as well as for software development and support. If you want to support them, consider [donating](https://openreview.net/donate).
 
