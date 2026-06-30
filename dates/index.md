@@ -16,5 +16,5 @@ order: 5
 | Pre-recorded talks and summary slide due: | August 2026 | Poster and Pitch video: TBD (AoE), Slides presentation: TBD (AoE) |
 | Pre-recorded pitch videos and (digital) posters due (to Program Chairs): | ~~September 2026~~ **September 16th, 2026** | |
 | (Slides) talks released online: | September 2026 | At latest after the conference |
-| ShapeMI workshop: | **September 27th, 2026, 8:00 AM to 12:30 PM** | Room **Berlin**, Floor **G** |
+| ShapeMI workshop: | **September 27th, 2026, 8:00 AM to 12:30 PM** | Room **Berlin**, Floor **G**, STRASBOURG CONVENTION CENTER, FRANCE |
 
