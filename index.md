@@ -103,7 +103,7 @@ As in previous years, we will have a highly qualified advisory board, similar to
 - Diana Mateus, École Centrale de Nantes, Nantes, France
 - Kaveh Moradkhani, École de technologie supérieure, Montreal, Canada
 - Krishna Mridha, Case Western Reserve University, Cleveland, United States
-- Mohammad Mehedi Hasan Munna, Independent University Bangladesh (IUB), Dhaka, Bangladesh
+- Mohammad Mehedi Hasan Munna, East West University, Dhaka, Bangladesh
 - Marc Niethammer, University of California San Diego, San Diego, United States
 - Ilkay Oksuz, Istanbul Technical University, Istanbul, Turkey
 - Steve Pizer, University of North Carolina at Chapel Hill, Chapel Hill, United States
