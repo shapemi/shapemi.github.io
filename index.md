@@ -83,25 +83,37 @@ If you are looking for medical shapes for your work, take a look at <a href="htt
 - [Jan Egger](http://www.janegger.de/), Institute for Artificial Intelligence in Medicine, University Hospital Essen, Essen, Germany
 
 # Advisory Board / Program Committee
-
 As in previous years, we will have a highly qualified advisory board, similar to ShapeMI 2018, 2020, 2023, 2024, and 2025, as listed below.
 
+- Kumar Abhishek, Simon Fraser University, Burnaby, Canada
 - Suyash Awate, Indian Institute of Technology Bombay, Mumbai, India
+- Devkumar Biswas, Indian Institute of Technology Ropar, Rupnagar, India
+- Satrajit Chakrabarty, GE HealthCare, San Ramon, United States
 - Tim Cootes, University of Manchester, Manchester, United Kingdom
+- Saher Elsayed, University of Pennsylvania, Philadelphia, United States
 - André Ferreira, University of Minho, Braga, Portugal
 - Ellen Gasparovic, Union College, Schenectady, United States
-- Hao Li, Vanderbilt University, Nashville, United States
-- Kathryn Leonard, Occidental College, Los Angeles, United States
+- Palak Handa, Danube Private University, Krems, Austria
+- Tonmoy Hossain, Harvard Medical School & Massachusetts General Hospital, Boston, United States
+- Krithika Iyer, Children's National Hospital, Washington, D.C., United States
 - Jens Kleesiek, UK Essen, Essen, Germany
+- Chaitanya Kolluru, Case Western Reserve University, Cleveland, United States
+- Kathryn Leonard, Occidental College, Los Angeles, United States
+- Hao Li, Vanderbilt University, Nashville, United States
 - Diana Mateus, École Centrale de Nantes, Nantes, France
-- Marc Niethammer, University of North Carolina at Chapel Hill, Chapel Hill, United States
+- Kaveh Moradkhani, École de technologie supérieure, Montreal, Canada
+- Krishna Mridha, Case Western Reserve University, Cleveland, United States
+- Mohammad Mehedi Hasan Munna, Independent University Bangladesh (IUB), Dhaka, Bangladesh
+- Marc Niethammer, University of California San Diego, San Diego, United States
 - Ilkay Oksuz, Istanbul Technical University, Istanbul, Turkey
 - Steve Pizer, University of North Carolina at Chapel Hill, Chapel Hill, United States
 - Behrus Hinrichs-Puladi, RWTH Aachen University, Aachen, Germany
+- Md Mostafijur Rahman, University of Texas at Austin, Austin, United States
 - Mira Rizkallah, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
+- Farnaz Sheikhi, University of Calgary, Calgary, Canada
 - Stefan Sommer, University of Copenhagen, Copenhagen, Denmark
-- Martin Styner, University of North Carolina at Chapel Hill, Chapel Hill, United States
-
+- Martin Styner, University of Basel, Basel, Switzerland
+- Matthias Wilms, University of Michigan, Ann Arbor, United States
 
 ![MICCAI 2026](images/miccai2026-logo.png "29th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2026")
 
