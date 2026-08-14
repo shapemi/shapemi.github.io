@@ -97,7 +97,7 @@ As in previous years, we will have a highly qualified advisory board, similar to
 - Tonmoy Hossain, Harvard Medical School & Massachusetts General Hospital, Boston, United States
 - Krithika Iyer, Children's National Hospital, Washington, D.C., United States
 - Jens Kleesiek, UK Essen, Essen, Germany
-- Chaitanya Kolluru, Case Western Reserve University, Cleveland, United States
+- Chaitanya Kolluru, Elucid Bioimaging, Boston, United States
 - Kathryn Leonard, Occidental College, Los Angeles, United States
 - Hao Li, Vanderbilt University, Nashville, United States
 - Diana Mateus, École Centrale de Nantes, Nantes, France
