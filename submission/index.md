@@ -6,7 +6,7 @@ order: 4
 ---
 # Paper and Demo Submission
 
-* **Papers**: Full papers (8-15 pages, excluding references) formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (Template:    [Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1)). Refer to [Instructions for Authors](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/).
+* **Papers**: Full papers (8-15 pages - with 1 page grace after acceptance, excluding references) formatted in [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (Template:    [Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj), [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1)). Refer to [Instructions for Authors](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/). We might explore an alternative route for the proceedings this year. All authors of accepted papers with a listed OpenReview account will receive an instruction package via email from the OpenReview email system.
 * **Software Demos**: During paper submissions, you can apply for presenting an on-site software demo.
 * **Submission Portal**: [OpenReview.net](https://openreview.net/group?id=MICCAI.org/2026/Workshop/ShapeMI) <br>
 *Please note that university accounts will be verified automatically - Accounts that cannot be automatically verified may take up to 2 weeks to be activated. To expedite the process, we recommend using an email address from a recognized institution, or completing your profile information as thoroughly as possible to help us verify your affiliation.*
@@ -21,7 +21,7 @@ All presenters are required to submit their full presentation slides to the orga
 Following the presentation, the session's chair will facilitate a brief live discussion. 
 Additionally, authors are requested to create a concise video showcasing their posters, which will be displayed on-site and subsequently featured on our website.
 
-* **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS) and selected high-quality papers may be invited for journal extension to the [MELBA](https://www.melba-journal.org/) (Machine Learning for Biomedical Imaging) journal, in addition to publication in LNCS.
+* **Proceedings**: We plan on publishing the workshop proceedings in Lecture Notes in Computer Science (LNCS) and selected high-quality papers may be invited for journal extension to the [MELBA](https://www.melba-journal.org/) (Machine Learning for Biomedical Imaging) journal, in addition to publication in LNCS. We might explore an alternative route for the proceedings this year. All authors of accepted papers with a listed OpenReview account will receive an instruction package via email from the OpenReview email system.
   
 Please note that at least one co-author **must register** for the workshop by MICCAI's 2026 (early-bird) registration deadline and be available on-site: **Room Name (floor) Berlin (G) - STRASBOURG CONVENTION CENTER, FRANCE**.
 
