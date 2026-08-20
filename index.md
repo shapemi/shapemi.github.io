@@ -112,7 +112,7 @@ As in previous years, we will have a highly qualified advisory board, similar to
 - Mira Rizkallah, Laboratoire des Sciences du Numérique de Nantes, Nantes, France
 - Farnaz Sheikhi, University of Calgary, Calgary, Canada
 - Stefan Sommer, University of Copenhagen, Copenhagen, Denmark
-- Martin Styner, University of Basel, Basel, Switzerland
+- Martin Styner, University of Basel, Basel, Switzerland & University of North Carolina, Chapel Hill, USA
 - Matthias Wilms, University of Michigan, Ann Arbor, United States
 
 ![MICCAI 2026](images/miccai2026-logo.png "29th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2026")
