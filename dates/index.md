@@ -13,8 +13,8 @@ order: 5
 | Notification of Acceptance: | ~~July 31st, 2026; 11:59 PM PST~~ **August 14th, 2026; 17:00 CEST** | |
 | MICCAI early bird/fee registration: | August 17th, 2026 | Please check details/changes at: https://conferences.miccai.org/2026/en/REGISTRATION.html |
 | Camera-ready version due (including ZIP containing LaTeX/Overleaf sources, final PDF, and signed Forms - all ackording to send instructions): | ~~August 6th, 2026; 11:59 PM PST~~ ~~August 20th, 2026; 11:59 PM AoE~~ August 24th, 2026; 5:30 AM CEST | |
-| Pre-recorded talks, Poster and summary/presentation slides due: | ~~August 2026~~ ~~September 16th, 2026 (AoE)~~ **September 20th, 2026 23:49 (CEST)**| |
-| Pre-recorded pitch videos and (digital) posters due (to Program Chairs): | ~~September 2026~~ ~~September 16th, 2026 (AoE)~~ **September 20th, 2026 23:49 (CEST)** | |
+| Pre-recorded talks, Poster and summary/presentation slides due: | ~~August 2026~~ ~~September 16th, 2026 (AoE)~~ **September 20th, 2026 23:59 (CEST)**| |
+| Pre-recorded pitch videos and (digital) posters due (to Program Chairs): | ~~September 2026~~ ~~September 16th, 2026 (AoE)~~ **September 20th, 2026 23:59 (CEST)** | |
 | (Slides) talks released online: | September 2026 | At latest after the conference |
 | ShapeMI workshop: | **September 27th, 2026, 8:00 AM to 12:30 PM** | Room **Berlin**, Floor **G**, STRASBOURG CONVENTION CENTER, FRANCE, please check the official MICCAI website for changes: https://conferences.miccai.org/2026/files/downloads/MICCAI2026-Satellite-Events-Program.pdf |
 
