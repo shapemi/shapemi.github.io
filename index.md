@@ -117,5 +117,29 @@ As in previous years, we will have a highly qualified advisory board, similar to
 
 ![MICCAI 2026](images/miccai2026-logo.png "29th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2026")
 
-# Sponsor
-TBD
+# Sponsors
+
+We are delighted to announce the generous support that is helping make **MICCAI 2026** possible.
+
+This year, we are proud to welcome **NVIDIA, HeartFlow, and the Munich Center for Machine Learning (MCML)** as our sponsors. Their support helps us bring together researchers, clinicians, and innovators from around the world to advance the future of medical image computing and computer assisted intervention.
+
+**We sincerely thank our sponsors for supporting the community and helping us make MICCAI 2026 happen.**
+
+<div align="center">
+
+<br>
+
+<img src="images/nvidia-logo-vert.svg" alt="NVIDIA" width="420">
+
+<br><br><br>
+
+<img src="images/heartflow_logo_white.svg" alt="HeartFlow" width="420">
+
+<br><br><br>
+
+<img src="images/MCML_Logo.jpeg" alt="Munich Center for Machine Learning" width="420">
+
+<br><br>
+
+</div>
+
