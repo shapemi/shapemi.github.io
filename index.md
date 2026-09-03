@@ -133,7 +133,7 @@ This year, we are proud to welcome **NVIDIA, HeartFlow, and the Munich Center fo
 
 <br><br><br>
 
-<img src="images/heartflow_logo_white.svg" alt="HeartFlow" width="420">
+<img src="images/heartflow-logo-scaled.png" alt="HeartFlow" width="420">
 
 <br><br><br>
 
