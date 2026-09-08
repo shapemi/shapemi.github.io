@@ -27,7 +27,11 @@ order: 2
 | 12:00 – 12:15 | Open discussion / panel with keynote speakers |
 | 12:15 – 12:25 | Closing & best-paper announcement |
 
+
+
 ---
+
+
 
 ### Oral Session 1 — 8:45–9:30
 - Paper #12 SPVR: Explicit Shape-Prior-Guided 3D Vertebral Reconstruction from Orthogonal Projections (12 min + 3 min Q&A)
