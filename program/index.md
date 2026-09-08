@@ -21,8 +21,8 @@ order: 2
 | 9:40 – 9:55 | Poster teasers (1 min each — 15 posters, selected at random) |
 | 9:55 – 10:00 | Slack |
 | 10:00 – 10:30 | Coffee break + posters |
-| 10:30 – 11:05 | **Keynote 2** (30 min + 5 min Q&A) |
-| 11:05 – 11:50 | **Oral Session 2 - Dr. Krithika Iyer** — Papers #18, #47, #27 (12 min + 3 min Q&A each) |
+| 10:30 – 11:05 | **Keynote 2 - Dr. Krithika Iyer** (30 min + 5 min Q&A) |
+| 11:05 – 11:50 | **Oral Session 2** — Papers #18, #47, #27 (12 min + 3 min Q&A each) |
 | 11:50 – 12:00 | Sponsor talk 2 - Heartflow|
 | 12:00 – 12:15 | Open discussion / panel with keynote speakers |
 | 12:15 – 12:25 | Closing & best-paper announcement |
