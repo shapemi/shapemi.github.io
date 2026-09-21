@@ -43,6 +43,15 @@ order: 2
 - Paper #47 Predicting The Progression of Adolescent Idiopathic Scoliosis (10 min + 5 min Q&A)
 - Paper #27 Learning the Marfan Face: A Conditional Mesh VAE for Explainable Screening and Synthetic Generation (10 min + 5 min Q&A)
 
+
+---
+
+### Sponsor Talk 1 — Supriya Thatachary (NVIDIA) 9:30-9:40
+- **Bio**: Supriya Thathachary is a Product Manager for Medical AI at NVIDIA. She works at the intersection of healthcare, artificial intelligence, and accelerated computing, helping shape NVIDIA’s product strategy for medical AI. Her work focuses on open models for medical imaging and reasoning, data curation, physiological simulation, and agentic workflows that enable researchers and developers to build the next generation of medical AI applications. She is also the Product Manager for MONAI, one of the world’s leading open-source ecosystems for medical imaging AI.
+- **Talk title**: From Medical Images to Personalized Physiological Simulations
+- **Talk summary**: Medical images provide rich information about a patient’s anatomy, but building personalized models that capture how that anatomy moves and functions remains complex. This talk will introduce recent research from Nvidia within Project MONAI for creating personalized physiological digital twins from 3D and 4D medical images.
+
+
 ---
 
 <a name="materials"></a>
