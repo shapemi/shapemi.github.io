@@ -176,6 +176,8 @@ This year, we are proud to welcome **NVIDIA, HeartFlow, and the Munich Center fo
 
 **We sincerely thank our sponsors for supporting the community and helping us make MICCAI 2026 happen.**
 
+Sponsor websites and sponsor-talk details are on the [Sponsors page](/sponsors/).
+
 <div align="center">
 
 <br>
