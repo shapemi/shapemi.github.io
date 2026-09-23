@@ -51,6 +51,11 @@ order: 2
 - **Talk title**: From Medical Images to Personalized Physiological Simulations
 - **Talk summary**: Medical images provide rich information about a patient’s anatomy, but building personalized models that capture how that anatomy moves and functions remains complex. This talk will introduce recent research from Nvidia within Project MONAI for creating personalized physiological digital twins from 3D and 4D medical images.
 
+### Sponsor Talk 2 — Esther Puyol-Antón (Heartflow) 11:50 – 12:00
+
+- **Bio**:Esther Puyol-Antón has a multidisciplinary background in biomedical signal processing, medical imaging and engineering, from dual-degree studies in Spain and France. She completed her PhD in Biomedical Engineering at King's College London, where she went on to hold a postdoctoral position and a research fellowship, working on automated assessment of cardiac imaging and fairness in medical AI. She is currently a Research Scientist at Heartflow and a Visiting Lecturer at King's College London.
+- **Talk title**: Making AI in Healthcare Accessible
+- **Talk summary**: Heartflow builds AI and computational modelling tools for coronary artery disease, turning a standard CT scan into a patient-specific 3D model of the heart. This talk introduces the technology and how it reached routine clinical care.
 
 ---
 

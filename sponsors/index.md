@@ -41,8 +41,12 @@ Both sponsor talks are part of the [workshop program](/program/).
 
 Medical images provide rich information about a patient's anatomy, but building personalized models that capture how that anatomy moves and functions remains complex. This talk will introduce recent research from NVIDIA within Project MONAI for creating personalized physiological digital twins from 3D and 4D medical images.
 
-*Supriya Thathachary is a Product Manager for Medical AI at NVIDIA. She works at the intersection of healthcare, artificial intelligence, and accelerated computing, helping shape NVIDIA's product strategy for medical AI. Her work focuses on open models for medical imaging and reasoning, data curation, physiological simulation, and agentic workflows that enable researchers and developers to build the next generation of medical AI applications. She is also the Product Manager for MONAI, one of the world's leading open-source ecosystems for medical imaging AI.*
+*Esther Puyol-Antón has a multidisciplinary background in biomedical signal processing, medical imaging and engineering, from dual-degree studies in Spain and France. She completed her PhD in Biomedical Engineering at King's College London, where she went on to hold a postdoctoral position and a research fellowship, working on automated assessment of cardiac imaging and fairness in medical AI. She is currently a Research Scientist at Heartflow and a Visiting Lecturer at King's College London.*
 
 ### HeartFlow — 11:50–12:00
 
-Speaker and talk details to follow.
+**Making AI in Healthcare Accessible**
+
+Heartflow builds AI and computational modelling tools for coronary artery disease, turning a standard CT scan into a patient-specific 3D model of the heart. This talk introduces the technology and how it reached routine clinical care.
+
+*Supriya Thathachary is a Product Manager for Medical AI at NVIDIA. She works at the intersection of healthcare, artificial intelligence, and accelerated computing, helping shape NVIDIA's product strategy for medical AI. Her work focuses on open models for medical imaging and reasoning, data curation, physiological simulation, and agentic workflows that enable researchers and developers to build the next generation of medical AI applications. She is also the Product Manager for MONAI, one of the world's leading open-source ecosystems for medical imaging AI.*
