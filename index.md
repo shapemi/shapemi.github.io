@@ -70,18 +70,22 @@ Thank you for a full room, with people queuing at the door!
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-top: 1.5rem; margin-bottom: 2rem;">
 
-<figure style="flex: 1 1 240px; margin: 0;">
-  <a href="/images/2026/keynote_iyer.jpg"><img src="/images/2026/keynote_iyer.jpg" alt="Keynote by Dr. Krithika Iyer" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;"></a>
+<div style="flex: 1 1 41%; display: flex; flex-direction: column; gap: 20px;">
+
+<figure style="margin: 0;">
+  <a href="/images/2026/keynote_iyer.jpg"><img src="/images/2026/keynote_iyer.jpg" alt="Keynote by Dr. Krithika Iyer" style="width: 100%; border-radius: 10px;"></a>
   <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Keynote by Dr. Krithika Iyer — packed room, queue at the door</figcaption>
 </figure>
 
-<figure style="flex: 1 1 240px; margin: 0;">
-  <a href="/images/2026/oral_session.jpg"><img src="/images/2026/oral_session.jpg" alt="Oral session at ShapeMI 2026" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;"></a>
+<figure style="margin: 0;">
+  <a href="/images/2026/oral_session.jpg"><img src="/images/2026/oral_session.jpg" alt="Oral session at ShapeMI 2026" style="width: 100%; border-radius: 10px;"></a>
   <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Oral session — standing room only</figcaption>
 </figure>
 
-<figure style="flex: 1 1 240px; margin: 0;">
-  <a href="/images/2026/poster_session.jpg"><img src="/images/2026/poster_session.jpg" alt="Poster session at ShapeMI 2026" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;"></a>
+</div>
+
+<figure style="flex: 1 1 54%; margin: 0;">
+  <a href="/images/2026/poster_session.jpg"><img src="/images/2026/poster_session.jpg" alt="Poster session at ShapeMI 2026" style="width: 100%; border-radius: 10px;"></a>
   <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Poster session in the MICCAI exhibition hall</figcaption>
 </figure>
 
