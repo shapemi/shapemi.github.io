@@ -28,6 +28,65 @@ growing shift from shape analysis as a standalone methodology toward shape-infor
 integrative modeling pipelines for precision medicine and population-level inference.
  </p>
 
+<a name="awards"></a>
+
+# Best paper award winners 2026 🏆
+
+We are happy to announce the award winners of ShapeMI 2026, selected by the organizers. The awards are generously sponsored by NVIDIA.
+
+🥇 **Best Paper** — #3 “AutoFFS: Adversarial Deformations for Facial Feminization Surgery Planning”<br>
+Paul Friedrich, Florentin Bieder, Florian M. Thieringer et al.<br>
+🎁 NVIDIA GeForce RTX 5070 Ti
+
+🥈 **Runner-up** — #27 “Learning the Marfan Face: A Conditional Mesh VAE for Explainable Screening and Synthetic Generation”<br>
+Giuseppe Maurizio Facchi, Raffaella Lanzarotti, Giuliano Grossi et al.<br>
+🎁 NVIDIA Brev credits
+
+🏅 **Best Poster** — #13 “Mind the Gap: Mesh-Guided Repair of Broken Vessels”<br>
+Gniewosz Drwiega, Wojciech Szymanski, Marek Wodzinski<br>
+📄 [Poster](https://drive.google.com/file/d/1bDY_aJBoRmZXB_5kmnq9jau-5gewCssi/view?usp=sharing) · 🎥 [1-min pitch](https://drive.google.com/file/d/10VWw3I5oylHuc5-AeljJhKIAEgXYbWWX/view?usp=sharing)
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-top: 1.5rem; margin-bottom: 1.5rem;">
+
+<figure style="flex: 1 1 300px; margin: 0;">
+  <a href="/images/2026/award_best_autoffs.jpg"><img src="/images/2026/award_best_autoffs.jpg" alt="Paul Friedrich receiving the Best Paper award from Christian Wachinger" style="width: 100%; border-radius: 10px;"></a>
+  <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Best Paper: Paul Friedrich (AutoFFS) with Christian Wachinger</figcaption>
+</figure>
+
+<figure style="flex: 1 1 300px; margin: 0;">
+  <a href="/images/2026/award_runnerup_marfan.jpg"><img src="/images/2026/award_runnerup_marfan.jpg" alt="Giuseppe Facchi receiving the runner-up award from Christian Wachinger" style="width: 100%; border-radius: 10px;"></a>
+  <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Runner-up: Giuseppe Facchi (Marfan Face) with Christian Wachinger</figcaption>
+</figure>
+
+</div>
+
+Congratulations to all winners, and thank you to all authors, reviewers, and attendees!
+
+<a name="impressions"></a>
+
+# Impressions from ShapeMI 2026 📸
+
+Thank you for a full room, with people queuing at the door!
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-top: 1.5rem; margin-bottom: 2rem;">
+
+<figure style="flex: 1 1 240px; margin: 0;">
+  <a href="/images/2026/keynote_iyer.jpg"><img src="/images/2026/keynote_iyer.jpg" alt="Keynote by Dr. Krithika Iyer" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;"></a>
+  <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Keynote by Dr. Krithika Iyer — packed room, queue at the door</figcaption>
+</figure>
+
+<figure style="flex: 1 1 240px; margin: 0;">
+  <a href="/images/2026/oral_session.jpg"><img src="/images/2026/oral_session.jpg" alt="Oral session at ShapeMI 2026" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;"></a>
+  <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Oral session — standing room only</figcaption>
+</figure>
+
+<figure style="flex: 1 1 240px; margin: 0;">
+  <a href="/images/2026/poster_session.jpg"><img src="/images/2026/poster_session.jpg" alt="Poster session at ShapeMI 2026" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px;"></a>
+  <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Poster session in the MICCAI exhibition hall</figcaption>
+</figure>
+
+</div>
+
 <a name="materials"></a>
 
 # Posters and pitch videos
@@ -90,8 +149,6 @@ https://link.springer.com/book/10.1007/978-3-031-75291-9
 # 2023 Proceedings
 
 https://link.springer.com/book/10.1007/978-3-031-46914-5 
-
-# Best paper award winners 2026 🏆
 
 # Topics
 This workshop targets theoretical contributions as well as exciting applications in medical imaging, including (but not limited to):
