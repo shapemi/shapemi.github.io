@@ -82,10 +82,19 @@ Thank you for a full room, with people queuing at the door!
 
 </div>
 
-<figure style="max-width: 260px; width: 100%; margin: 0 auto 2rem auto; text-align: center;">
+<div style="display: flex; gap: 20px; align-items: flex-start; max-width: 600px; margin: 0 auto 2rem auto;">
+
+<figure style="flex: 1.333 1 0; margin: 0;">
+  <a href="/images/2026/talk_slide_ssm.jpg"><img src="/images/2026/talk_slide_ssm.jpg" alt="Talk slide on statistical shape modeling at ShapeMI 2026" style="width: 100%; border-radius: 10px;"></a>
+  <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Statistical shape modeling, from one of the talks</figcaption>
+</figure>
+
+<figure style="flex: 0.817 1 0; margin: 0;">
   <a href="/images/2026/poster_session.jpg"><img src="/images/2026/poster_session.jpg" alt="Poster session at ShapeMI 2026" style="width: 100%; border-radius: 10px;"></a>
   <figcaption style="font-size: 0.9em; margin-top: 0.4rem;">Poster session in the MICCAI exhibition hall</figcaption>
 </figure>
+
+</div>
 
 <a name="materials"></a>
 
